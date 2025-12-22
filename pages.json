@@ -2,60 +2,120 @@
     {
         "title": "Overview",
         "slug": "index",
-        "body": "<p>Hi! Here you can browse and download all sheet music I've created.</p><p>Sometimes, when I can't find sheet music for a song, I decide to make it myself (if I can bring myself to work with MuseScore ಠ_ಠ) Mostly, you can find piano sheets here, but recently I've gotten into choir arrangements as well.</p><p>I've made sheet music for the following video games, animes &amp; artists:</p>{{overviewNavigation}}",
+        "body": "<p>Hi! Here you can browse and download all sheet music I've created. You can also visit my <a href=\"https://www.youtube.com/@EliasKSheetMusic\" target=\"_blank\">YouTube channel</a> to discover more.</p><p>Sometimes, when I can't find sheet music for a song, I decide to make it myself (if I can bring myself to work with MuseScore ಠ_ಠ) You can find piano and choir arrangements here.</p><p>I've made sheet music for the following video games, animes &amp; artists:</p>{{overviewNavigation}}",
         "background": "<video playsinline autoplay loop muted poster=\"img/index-bg.jpg\"><source src=\"img/index-bg.mp4\" type=\"video/mp4\"></video>"
     },
     {
-        "title": "Marina",
+        "title": "Imagine Dragons",
+        "slug": "imagine-dragons",
+        "style": "default",
+        "summary": "Enemy",
+        "body": "<p>This is a song from the Netflix series <em>Arcane</em>, created by <em>Imagine Dragons</em>. The arrangement was inspired by the a capella group <em><a href=\"https://www.youtube.com/watch?v=ojlEskF5HX0\" target=\"_blank\">MayTree</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "songs": [
+            {
+                "title": "Enemy",
+                "subtitle": "Short Ver. (SATBB choir)",
+                "video": "https://youtu.be/NPQ4gwm2O6I",
+                "pdf": "static/assets/imagine-dragons/Enemy (Short).pdf",
+                "mid": "static/assets/imagine-dragons/Enemy (Short).mid",
+                "mp3": "static/assets/imagine-dragons/Enemy (Short).mp3",
+                "mscz": "static/assets/imagine-dragons/Enemy (Short).mscz"
+            }
+        ]
+    },
+    {
+        "title": "MARINA",
         "slug": "marina",
         "summary": "Ancient Dreams in a Modern Land",
-        "body": "<p>This is a song from the album <em>Ancient Dreams in a Modern Land</em> by <em><a href=\"https://www.marinaofficial.co.uk/\" target=\"_blank\">Marina Diamandis</a></em>.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from the album <em>Ancient Dreams in a Modern Land</em> by <em><a href=\"https://www.marinaofficial.co.uk/\" target=\"_blank\">Marina Diamandis</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Ancient Dreams in a Modern Land",
-                "subtitle": "(choir)",
-                "listen": "https://youtu.be/d9db-7egfnc",
-                "download": "https://sheet.host/sheet/tyXa3F"
+                "subtitle": "(SATB choir)",
+                "video": "https://youtu.be/d9db-7egfnc",
+                "pdf": "static/assets/marina/Ancient Dreams in a Modern Land.pdf",
+                "mid": "static/assets/marina/Ancient Dreams in a Modern Land.mid",
+                "mp3": "static/assets/marina/Ancient Dreams in a Modern Land.mp3",
+                "mscz": "static/assets/marina/Ancient Dreams in a Modern Land.mscz"
             }
+        ]
+    },
+    {
+        "title": "The Klein Four",
+        "slug": "the-klein-four",
+        "style": "default",
+        "summary": "Finite Simple Group",
+        "body": "<p>This is a song from <em>The Klein Four</em>, an a cappella group that produces comedic songs about and involving mathematics.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "songs": [
+            {
+                "title": "Finite Simple Group",
+                "subtitle": "Of Order Two (TTBB ensemble)",
+                "video": "https://youtu.be/4KVVSLFyYuk",
+                "pdf": "static/assets/the-klein-four/Finite Simple Group.pdf",
+                "mid": "static/assets/the-klein-four/Finite Simple Group.mid",
+                "mp3": "static/assets/the-klein-four/Finite Simple Group.mp3",
+                "mscz": "static/assets/the-klein-four/Finite Simple Group.mscz"
+            } 
         ]
     },
     {
         "title": "The Witcher 3",
         "slug": "the-witcher-3",
         "summary": "The Vagabond",
-        "body": "<p>This is a piece from the original soundtrack of the action game <em>The Witcher 3: Wild Hunt</em>.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the action game <em>The Witcher 3: Wild Hunt</em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "The Vagabond",
-                "subtitle": "(choir)",
-                "listen": "https://youtu.be/Uy-P6birNO0",
-                "download": "https://sheet.host/sheet/Te8QeK"
+                "subtitle": "(SSAATBB choir)",
+                "video": "https://youtu.be/Uy-P6birNO0",
+                "pdf": "static/assets/the-witcher-3/The Vagabond.pdf",
+                "mid": "static/assets/the-witcher-3/The Vagabond.mid",
+                "mp3": "static/assets/the-witcher-3/The Vagabond.mp3",
+                "mscz": "static/assets/the-witcher-3/The Vagabond.mscz"
             }
         ]
     },
     {
-        "title": "Aurora",
+        "title": "AURORA",
         "slug": "aurora",
         "summary": "Warrior, The Seed",
-        "body": "<p>These are some songs from the Norwegian singer <em><a href=\"https://www.aurora-music.com/\" target=\"_blank\">Aurora Aksnes</a></em>.</p><p>You can listen to each song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>These are some songs from the Norwegian artist <em><a href=\"https://www.aurora-music.com/\" target=\"_blank\">Aurora Aksnes</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Warrior",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/5G8A2xHdtAU",
-                "download": "https://sheet.host/sheet/f1lOW5"
+                "video": "https://youtu.be/5G8A2xHdtAU",
+                "pdf": "static/assets/aurora/Warrior.pdf",
+                "mid": "static/assets/aurora/Warrior.mid",
+                "mp3": "static/assets/aurora/Warrior.mp3",
+                "mscz": "static/assets/aurora/Warrior.mscz"
             },
             {
                 "title": "The Seed",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/F50deTQaGV4",
-                "download": "https://sheet.host/sheet/yiU8rz"
+                "video": "https://youtu.be/F50deTQaGV4",
+                "pdf": "static/assets/aurora/The Seed.pdf",
+                "mid": "static/assets/aurora/The Seed.mid",
+                "mp3": "static/assets/aurora/The Seed.mp3",
+                "mscz": "static/assets/aurora/The Seed.mscz"
             },
             {
                 "title": "The Seed",
-                "subtitle": "(choir)",
-                "listen": "https://youtu.be/KJyMWjLqLX0",
-                "download": "https://sheet.host/sheet/aOMhrN"
+                "subtitle": "(SATB choir)",
+                "video": "https://youtu.be/bEvJAp5T1sM",
+                "pdf": "static/assets/aurora/The Seed (SATB).pdf",
+                "mid": "static/assets/aurora/The Seed (SATB).mid",
+                "mp3": "static/assets/aurora/The Seed (SATB).mp3",
+                "mscz": "static/assets/aurora/The Seed (SATB).mscz"
+            },
+            {
+                "title": "The Seed",
+                "subtitle": "Intro (SSAATB choir)",
+                "video": "https://youtu.be/1pgTkJOUJmI",
+                "pdf": "static/assets/aurora/The Seed (Intro).pdf",
+                "mid": "static/assets/aurora/The Seed (Intro).mid",
+                "mp3": "static/assets/aurora/The Seed (Intro).mp3",
+                "mscz": "static/assets/aurora/The Seed (Intro).mscz"
             }
         ]
     },
@@ -63,39 +123,51 @@
         "title": "Foxes",
         "slug": "foxes",
         "summary": "Glorious",
-        "body": "<p>This is a song from the album <em>Glorious</em> by <em><a href=\"https://twitter.com/iamfoxes/\" target=\"_blank\">Foxes</a></em>.</p><p>Two versions are available: A short and an extended one (which has another chorus at the end and is more difficult).The <a href=\"http://youtu.be/Odu3fWtTx3s\" target=\"_blank\">background instrumental</a> was made by <em><a href=\"https://www.youtube.com/channel/UC__viPsXI_bHE6M_r_7fR-w\" target=\"_blank\">_SLP</a></em>.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from the album <em>Glorious</em> by <em><a href=\"https://twitter.com/iamfoxes/\" target=\"_blank\">Foxes</a></em>.</p><p>Two versions are available: A short and an extended one (which has another chorus at the end and is more difficult). The <a href=\"http://youtu.be/Odu3fWtTx3s\" target=\"_blank\">background instrumental</a> was made by <em><a href=\"https://www.youtube.com/channel/UC__viPsXI_bHE6M_r_7fR-w\" target=\"_blank\">_SLP</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Glorious",
                 "subtitle": "Short Ver. (piano)",
-                "listen": "https://youtu.be/CUXnnP41kBc",
-                "download": "https://sheet.host/sheet/TqRWN9"
+                "video": "https://youtu.be/CUXnnP41kBc",
+                "pdf": "static/assets/foxes/Glorious (Short).pdf",
+                "mid": "static/assets/foxes/Glorious (Short).mid",
+                "wav": "static/assets/foxes/Glorious (Short).wav",
+                "mscz": "static/assets/foxes/Glorious (Short).mscz"
             },
             {
                 "title": "Glorious",
                 "subtitle": "Extended Ver. (piano)",
-                "listen": "https://youtu.be/8MYr-oS19qs",
-                "download": "https://sheet.host/sheet/Fnuw0q"
+                "video": "https://youtu.be/8MYr-oS19qs",
+                "pdf": "static/assets/foxes/Glorious (Extended).pdf",
+                "mid": "static/assets/foxes/Glorious (Extended).mid",
+                "wav": "static/assets/foxes/Glorious (Extended).wav",
+                "mscz": "static/assets/foxes/Glorious (Extended).mscz"
             }
         ]
     },
     {
-        "title": "Florence + the Machine",
+        "title": "Florence + The Machine",
         "slug": "florence",
         "summary": "Which Witch, Moderation",
-        "body": "<p>These are some songs from <em><a href=\"http://florenceandthemachine.net/\" target=\"_blank\">Florence + The Machine</a></em>. <em>Which Witch</em> is from her third album, <em>How Big, How Blue, How Beautiful</em>. <em>Moderation</em> has been released as a single in January 2019.</p><p>The <a href=\"http://youtu.be/WB-cvAM28SQ\" target=\"_blank\">arrangement</a> for <em>Which Witch</em> was made by <em><a href=\"https://www.youtube.com/channel/UCl2_EEC-il22FQ2_jU5Lp-Q\" target=\"_blank\">An Almighty Sound</a></em>, I've only created the sheet music for it. In the background you can hear the incredible <a href=\"http://youtu.be/SjRNpmSWl_8\" target=\"_blank\">instrumental remake</a> made by <em><a href=\"https://www.youtube.com/channel/UCLBvnq5KmCfcpwVKMyU3CSw\" target=\"_blank\">Highway Monster</a></em>.</p><p>You can listen to each song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>These are some songs from <em><a href=\"http://florenceandthemachine.net/\" target=\"_blank\">Florence + The Machine</a></em>. <em>Which Witch</em> is from her third album, <em>How Big, How Blue, How Beautiful</em>. <em>Moderation</em> has been released as a single in January 2019.</p><p>The <a href=\"http://youtu.be/WB-cvAM28SQ\" target=\"_blank\">arrangement</a> for <em>Which Witch</em> was made by <em><a href=\"https://www.youtube.com/channel/UCl2_EEC-il22FQ2_jU5Lp-Q\" target=\"_blank\">An Almighty Sound</a></em>, I've only created the sheet music for it. In the background you can hear the incredible <a href=\"http://youtu.be/SjRNpmSWl_8\" target=\"_blank\">instrumental remake</a> made by <em><a href=\"https://www.youtube.com/channel/UCLBvnq5KmCfcpwVKMyU3CSw\" target=\"_blank\">Highway Monster</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Which Witch",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/FFj92WIFJhs",
-                "download": "https://sheet.host/sheet/UoOVyU"
+                "video": "https://youtu.be/FFj92WIFJhs",
+                "pdf": "static/assets/florence/Which Witch.pdf",
+                "mid": "static/assets/florence/Which Witch.mid",
+                "wav": "static/assets/florence/Which Witch.wav",
+                "mscz": "static/assets/florence/Which Witch.mscz"
             },
             {
                 "title": "Moderation",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/pH-cxm8YQdA",
-                "download": "https://sheet.host/sheet/wTNNxe"
+                "video": "https://youtu.be/pH-cxm8YQdA",
+                "pdf": "static/assets/florence/Moderation.pdf",
+                "mid": "static/assets/florence/Moderation.mid",
+                "mp3": "static/assets/florence/Moderation.mp3",
+                "sib": "static/assets/florence/Moderation.sib"
             }
         ]
     },
@@ -103,19 +175,25 @@
         "title": "Silence",
         "slug": "silence",
         "summary": "Windy, Renie",
-        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"http://store.steampowered.com/app/556290/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Silence</em> (also known as <em>The Whispered World 2</em>).</p><p>You can listen to each song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"http://store.steampowered.com/app/556290/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Silence</em> (also known as <em>The Whispered World 2</em>).</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Windy",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/cFpSEpldKWc",
-                "download": "https://sheet.host/sheet/WMqfp2"
+                "video": "https://youtu.be/cFpSEpldKWc",
+                "pdf": "static/assets/silence/Windy.pdf",
+                "mid": "static/assets/silence/Windy.mid",
+                "wav": "static/assets/silence/Windy.wav",
+                "mscz": "static/assets/silence/Windy.mscz"
             },
             {
                 "title": "Renie",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/WfgtSDFwBTk",
-                "download": "https://sheet.host/sheet/GixKdk"
+                "video": "https://youtu.be/WfgtSDFwBTk",
+                "pdf": "static/assets/silence/Renie.pdf",
+                "mid": "static/assets/silence/Renie.mid",
+                "wav": "static/assets/silence/Renie.wav",
+                "mscz": "static/assets/silence/Renie.mscz"
             }
         ]
     },
@@ -123,150 +201,266 @@
         "title": "Fran Bow",
         "slug": "fran-bow",
         "summary": "Black Tears, When Things Are Said &amp; more",
-        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"https://isakmartinsson.bandcamp.com/album/fran-bow-original-soundtrack\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Fran Bow</em>.</p><p>You can listen to each song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"https://isakmartinsson.bandcamp.com/album/fran-bow-original-soundtrack\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Fran Bow</em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "number": "01.",
                 "title": "Bedtime Story",
-                "listen": "https://youtu.be/CTI_-t3BU6Y",
-                "download": "https://sheet.host/sheet/zmi6oz"
+                "video": "https://youtu.be/CTI_-t3BU6Y",
+                "pdf": "static/assets/fran-bow/01. Bedtime Story.pdf",
+                "mid": "static/assets/fran-bow/01. Bedtime Story.mid",
+                "mp3": "static/assets/fran-bow/01. Bedtime Story.mp3",
+                "mscz": "static/assets/fran-bow/01. Bedtime Story.mscz"
             },
             {
                 "number": "02.",
                 "title": "Finding The Truth",
-                "listen": "https://youtu.be/wm8YKnDQ5Hw",
-                "download": "https://sheet.host/sheet/fw4e92"
+                "video": "https://youtu.be/wm8YKnDQ5Hw",
+                "pdf": "static/assets/fran-bow/02. Finding The Truth.pdf",
+                "mid": "static/assets/fran-bow/02. Finding The Truth.mid",
+                "mp3": "static/assets/fran-bow/02. Finding The Truth.mp3",
+                "mscz": "static/assets/fran-bow/02. Finding The Truth.mscz"
             },
             {
                 "number": "03.",
                 "title": "Mr. Midnight",
-                "listen": "https://youtu.be/xsbZh3w3H-Q",
-                "download": "https://sheet.host/sheet/Opmn8N"
+                "video": "https://youtu.be/xsbZh3w3H-Q",
+                "pdf": "static/assets/fran-bow/03. Mr. Midnight.pdf",
+                "mid": "static/assets/fran-bow/03. Mr. Midnight.mid",
+                "mp3": "static/assets/fran-bow/03. Mr. Midnight.mp3",
+                "mscz": "static/assets/fran-bow/03. Mr. Midnight.mscz"
+            },
+            {
+                "number": "04.",
+                "title": "The White Rabbit",
+                "video": "static/assets/fran-bow/04. The White Rabbit.mp4",
+                "pdf": "static/assets/fran-bow/04. The White Rabbit.pdf",
+                "mid": "static/assets/fran-bow/04. The White Rabbit.mid",
+                "mp3": "static/assets/fran-bow/04. The White Rabbit.mp3",
+                "mscz": "static/assets/fran-bow/04. The White Rabbit.mscz"
             },
             {
                 "number": "05.",
                 "title": "A Little Talk",
-                "listen": "https://youtu.be/bqzOfuGzNBA",
-                "download": "https://sheet.host/sheet/FzbKL3"
+                "video": "https://youtu.be/bqzOfuGzNBA",
+                "pdf": "static/assets/fran-bow/05. A Little Talk.pdf",
+                "mid": "static/assets/fran-bow/05. A Little Talk.mid",
+                "mp3": "static/assets/fran-bow/05. A Little Talk.mp3",
+                "mscz": "static/assets/fran-bow/05. A Little Talk.mscz"
             },
             {
                 "number": "06.",
                 "title": "Black Tears",
-                "listen": "https://youtu.be/GQe_BrBYWEg",
-                "download": "https://sheet.host/sheet/p6aK8p"
+                "video": "https://youtu.be/GQe_BrBYWEg",
+                "pdf": "static/assets/fran-bow/06. Black Tears.pdf",
+                "mid": "static/assets/fran-bow/06. Black Tears.mid",
+                "mp3": "static/assets/fran-bow/06. Black Tears.mp3",
+                "mscz": "static/assets/fran-bow/06. Black Tears.mscz"
             },
             {
                 "number": "07.",
                 "title": "It Hunts Me",
-                "listen": "https://youtu.be/3s8y2z-y_d0",
-                "download": "https://sheet.host/sheet/DFZjat"
+                "video": "https://youtu.be/3s8y2z-y_d0",
+                "pdf": "static/assets/fran-bow/07. It Hunts Me.pdf",
+                "mid": "static/assets/fran-bow/07. It Hunts Me.mid",
+                "mp3": "static/assets/fran-bow/07. It Hunts Me.mp3",
+                "mscz": "static/assets/fran-bow/07. It Hunts Me.mscz"
             },
             {
                 "number": "08.",
                 "title": "Cold Walls",
-                "listen": "https://youtu.be/5hxTn9ytk0U",
-                "download": "https://sheet.host/sheet/YwZhCm"
+                "video": "https://youtu.be/5hxTn9ytk0U",
+                "pdf": "static/assets/fran-bow/08. Cold Walls.pdf",
+                "mid": "static/assets/fran-bow/08. Cold Walls.mid",
+                "mp3": "static/assets/fran-bow/08. Cold Walls.mp3",
+                "mscz": "static/assets/fran-bow/08. Cold Walls.mscz"
             },
             {
                 "number": "09.",
                 "title": "Details Omitted",
-                "listen": "https://youtu.be/UKHprknKUU4",
-                "download": "https://sheet.host/sheet/n6VpY2"
+                "video": "https://youtu.be/UKHprknKUU4",
+                "pdf": "static/assets/fran-bow/09. Details Omitted.pdf",
+                "mid": "static/assets/fran-bow/09. Details Omitted.mid",
+                "mp3": "static/assets/fran-bow/09. Details Omitted.mp3",
+                "mscz": "static/assets/fran-bow/09. Details Omitted.mscz"
             },
             {
                 "number": "10.",
                 "title": "I Can See",
-                "listen": "https://youtu.be/UhjJbEetwco",
-                "download": "https://sheet.host/sheet/JvfG2Q"
+                "video": "https://youtu.be/UhjJbEetwco",
+                "pdf": "static/assets/fran-bow/10. I Can See.pdf",
+                "mid": "static/assets/fran-bow/10. I Can See.mid",
+                "mp3": "static/assets/fran-bow/10. I Can See.mp3",
+                "mscz": "static/assets/fran-bow/10. I Can See.mscz"
             },
             {
                 "number": "11.",
                 "title": "Downstairs",
-                "listen": "https://youtu.be/2VSsp_fKuo8",
-                "download": "https://sheet.host/sheet/T43gVT"
+                "video": "https://youtu.be/2VSsp_fKuo8",
+                "pdf": "static/assets/fran-bow/11. Downstairs.pdf",
+                "mid": "static/assets/fran-bow/11. Downstairs.mid",
+                "mp3": "static/assets/fran-bow/11. Downstairs.mp3",
+                "mscz": "static/assets/fran-bow/11. Downstairs.mscz"
             },
             {
                 "number": "12.",
                 "title": "Inside The Children's Head",
-                "listen": "https://youtu.be/7l7E4E9I1lk",
-                "download": "https://sheet.host/sheet/rE6TRn"
+                "video": "https://youtu.be/7l7E4E9I1lk",
+                "pdf": "static/assets/fran-bow/12. Inside The Children's Head.pdf",
+                "mid": "static/assets/fran-bow/12. Inside The Children's Head.mid",
+                "mp3": "static/assets/fran-bow/12. Inside The Children's Head.mp3",
+                "mscz": "static/assets/fran-bow/12. Inside The Children's Head.mscz"
             },
             {
                 "number": "13.",
                 "title": "Lost On The Path",
-                "listen": "https://youtu.be/Bba8DtuQTPQ",
-                "download": "https://sheet.host/sheet/DPwzL6"
+                "video": "https://youtu.be/Bba8DtuQTPQ",
+                "pdf": "static/assets/fran-bow/13. Lost On The Path.pdf",
+                "mid": "static/assets/fran-bow/13. Lost On The Path.mid",
+                "mp3": "static/assets/fran-bow/13. Lost On The Path.mp3",
+                "mscz": "static/assets/fran-bow/13. Lost On The Path.mscz"
             },
             {
                 "number": "15.",
                 "title": "Duality",
-                "listen": "https://youtu.be/YDdxlLRvCic",
-                "download": "https://sheet.host/sheet/uEv3Wd"
+                "video": "https://youtu.be/YDdxlLRvCic",
+                "pdf": "static/assets/fran-bow/15. Duality.pdf",
+                "mid": "static/assets/fran-bow/15. Duality.mid",
+                "mp3": "static/assets/fran-bow/15. Duality.mp3",
+                "mscz": "static/assets/fran-bow/15. Duality.mscz"
             },
             {
                 "number": "16.",
                 "title": "This Is The Forest",
-                "listen": "https://youtu.be/3w68Hi0c8HM",
-                "download": "https://sheet.host/sheet/SWbKYA"
+                "video": "https://youtu.be/3w68Hi0c8HM",
+                "pdf": "static/assets/fran-bow/16. This Is The Forest.pdf",
+                "mid": "static/assets/fran-bow/16. This Is The Forest.mid",
+                "mp3": "static/assets/fran-bow/16. This Is The Forest.mp3",
+                "mscz": "static/assets/fran-bow/16. This Is The Forest.mscz"
             },
             {
                 "number": "17.",
                 "title": "Sitting In Company",
-                "listen": "https://youtu.be/Y38nEyT8fLw",
-                "download": "https://sheet.host/sheet/JvW1dd"
+                "video": "https://youtu.be/Y38nEyT8fLw",
+                "pdf": "static/assets/fran-bow/17. Sitting In Company.pdf",
+                "mid": "static/assets/fran-bow/17. Sitting In Company.mid",
+                "mp3": "static/assets/fran-bow/17. Sitting In Company.mp3",
+                "mscz": "static/assets/fran-bow/17. Sitting In Company.mscz"
+            },
+            {
+                "number": "18.",
+                "title": "Let's Start Over",
+                "video": "https://youtu.be/bOpibBiqKtY",
+                "pdf": "static/assets/fran-bow/18. Let's Start Over.pdf",
+                "mid": "static/assets/fran-bow/18. Let's Start Over.mid",
+                "mp3": "static/assets/fran-bow/18. Let's Start Over.mp3",
+                "mscz": "static/assets/fran-bow/18. Let's Start Over.mscz"
+            },
+            {
+                "number": "19.",
+                "title": "The King Of Ithersta",
+                "video": "https://youtu.be/69SGWkYjJgE",
+                "pdf": "static/assets/fran-bow/19. The King Of Ithersta.pdf",
+                "mid": "static/assets/fran-bow/19. The King Of Ithersta.mid",
+                "mp3": "static/assets/fran-bow/19. The King Of Ithersta.mp3",
+                "mscz": "static/assets/fran-bow/19. The King Of Ithersta.mscz"
+            },
+            {
+                "number": "20.",
+                "title": "Get Rid Of The Dirt",
+                "video": "static/assets/fran-bow/20. Get Rid Of The Dirt.mp4",
+                "pdf": "static/assets/fran-bow/20. Get Rid Of The Dirt.pdf",
+                "mid": "static/assets/fran-bow/20. Get Rid Of The Dirt.mid",
+                "mp3": "static/assets/fran-bow/20. Get Rid Of The Dirt.mp3",
+                "mscz": "static/assets/fran-bow/20. Get Rid Of The Dirt.mscz"
             },
             {
                 "number": "23.",
                 "title": "Philmore Paranoid",
-                "listen": "https://youtu.be/iHXiJNuMVTw",
-                "download": "https://sheet.host/sheet/vWBrkk"
+                "video": "https://youtu.be/iHXiJNuMVTw",
+                "pdf": "static/assets/fran-bow/23. Philmore Paranoid.pdf",
+                "mid": "static/assets/fran-bow/23. Philmore Paranoid.mid",
+                "mp3": "static/assets/fran-bow/23. Philmore Paranoid.mp3",
+                "mscz": "static/assets/fran-bow/23. Philmore Paranoid.mscz"
+            },
+            {
+                "number": "24.",
+                "title": "Take Me Home",
+                "video": "https://youtu.be/4TO8-3dmTwQ",
+                "pdf": "static/assets/fran-bow/24. Take Me Home.pdf",
+                "mid": "static/assets/fran-bow/24. Take Me Home.mid",
+                "mp3": "static/assets/fran-bow/24. Take Me Home.mp3",
+                "mscz": "static/assets/fran-bow/24. Take Me Home.mscz"
             },
             {
                 "number": "25.",
                 "title": "When Things Are Said",
-                "listen": "https://youtu.be/aBgCa-WtEJo",
-                "download": "https://sheet.host/sheet/zZv1AF"
+                "video": "https://youtu.be/aBgCa-WtEJo",
+                "pdf": "static/assets/fran-bow/25. When Things Are Said.pdf",
+                "mid": "static/assets/fran-bow/25. When Things Are Said.mid",
+                "mp3": "static/assets/fran-bow/25. When Things Are Said.mp3",
+                "mscz": "static/assets/fran-bow/25. When Things Are Said.mscz"
             },
             {
                 "number": "28.",
                 "title": "My Friend Is Leaving",
-                "listen": "https://youtu.be/BpqGX4IMAXg",
-                "download": "https://sheet.host/sheet/61HIpk"
+                "video": "https://youtu.be/BpqGX4IMAXg",
+                "pdf": "static/assets/fran-bow/28. My Friend Is Leaving.pdf",
+                "mid": "static/assets/fran-bow/28. My Friend Is Leaving.mid",
+                "mp3": "static/assets/fran-bow/28. My Friend Is Leaving.mp3",
+                "mscz": "static/assets/fran-bow/28. My Friend Is Leaving.mscz"
             },
             {
                 "number": "36.",
                 "title": "They Will Find You",
-                "listen": "https://youtu.be/S4bCTR9Mg2w",
-                "download": "https://sheet.host/sheet/Es8roj"
+                "video": "https://youtu.be/S4bCTR9Mg2w",
+                "pdf": "static/assets/fran-bow/36. They Will Find You.pdf",
+                "mid": "static/assets/fran-bow/36. They Will Find You.mid",
+                "mp3": "static/assets/fran-bow/36. They Will Find You.mp3",
+                "mscz": "static/assets/fran-bow/36. They Will Find You.mscz"
             },
             {
                 "number": "39.",
                 "title": "Fluffy Toad Bun",
-                "listen": "https://youtu.be/PWVihHHmR-Y",
-                "download": "https://sheet.host/sheet/LwTb9p"
+                "video": "https://youtu.be/PWVihHHmR-Y",
+                "pdf": "static/assets/fran-bow/39. Fluffy Toad Bun.pdf",
+                "mid": "static/assets/fran-bow/39. Fluffy Toad Bun.mid",
+                "mp3": "static/assets/fran-bow/39. Fluffy Toad Bun.mp3",
+                "mscz": "static/assets/fran-bow/39. Fluffy Toad Bun.mscz"
             },
             {
                 "number": "41.",
                 "title": "Sneaky Fran",
-                "listen": "https://youtu.be/dTz_EJreRVY",
-                "download": "https://sheet.host/sheet/tsgsH9"
+                "video": "https://youtu.be/dTz_EJreRVY",
+                "pdf": "static/assets/fran-bow/41. Sneaky Fran.pdf",
+                "mid": "static/assets/fran-bow/41. Sneaky Fran.mid",
+                "mp3": "static/assets/fran-bow/41. Sneaky Fran.mp3",
+                "mscz": "static/assets/fran-bow/41. Sneaky Fran.mscz"
             },
             {
                 "number": "42.",
                 "title": "The Bow Family",
-                "listen": "https://youtu.be/wE9TuEbpwus",
-                "download": "https://sheet.host/sheet/8eznpH"
+                "video": "https://youtu.be/wE9TuEbpwus",
+                "pdf": "static/assets/fran-bow/42. The Bow Family.pdf",
+                "mid": "static/assets/fran-bow/42. The Bow Family.mid",
+                "mp3": "static/assets/fran-bow/42. The Bow Family.mp3",
+                "mscz": "static/assets/fran-bow/42. The Bow Family.mscz"
             },
             {
                 "number": "43.",
                 "title": "Between Black And White",
-                "listen": "https://youtu.be/h3Gtn43BkuI",
-                "download": "https://sheet.host/sheet/l51OUk"
+                "video": "https://youtu.be/h3Gtn43BkuI",
+                "pdf": "static/assets/fran-bow/43. Between Black And White.pdf",
+                "mid": "static/assets/fran-bow/43. Between Black And White.mid",
+                "mp3": "static/assets/fran-bow/43. Between Black And White.mp3",
+                "mscz": "static/assets/fran-bow/43. Between Black And White.mscz"
             },
             {
                 "title": "Finding Mr. Midnight",
                 "subtitle": "by <em>Random Encounters</em>",
-                "download": "http://sheet.host/sheet/2ooI6W"
+                "pdf": "static/assets/fran-bow/Finding Mr. Midnight.pdf",
+                "mid": "static/assets/fran-bow/Finding Mr. Midnight.mid",
+                "mscz": "static/assets/fran-bow/Finding Mr. Midnight.mscz"
             }
         ]
     },
@@ -274,13 +468,15 @@
         "title": "Everybody's Gone to the Rapture",
         "slug": "rapture",
         "summary": "The Mourning Tree",
-        "body": "<p>This is a piece from the <a href=\"http://www.jessicacurry.co.uk/rapture/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Everybody's Gone to the Rapture</em>.</p><p>The <a href=\"https://youtu.be/2PGcMPXwQIs\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/channel/UCQYW4I7G3ifZ32uphtjd03g\" target=\"_blank\">LillyTalent</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the <a href=\"http://www.jessicacurry.co.uk/rapture/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Everybody's Gone to the Rapture</em>.</p><p>The <a href=\"https://youtu.be/2PGcMPXwQIs\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/channel/UCQYW4I7G3ifZ32uphtjd03g\" target=\"_blank\">LillyTalent</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "The Mourning Tree",
                 "subtitle": "(piano)",
-                "listen": "https://youtu.be/2PGcMPXwQIs",
-                "download": "https://sheet.host/sheet/DFPO6r"
+                "video": "https://youtu.be/2PGcMPXwQIs",
+                "pdf": "static/assets/rapture/The Mourning Tree.pdf",
+                "mid": "static/assets/rapture/The Mourning Tree.mid",
+                "mscz": "static/assets/rapture/The Mourning Tree.mscz"
             }
         ]
     },
@@ -288,13 +484,15 @@
         "title": "Shinsekai yori",
         "slug": "shinsekai-yori",
         "summary": "Kage no Denshouka Dainibu",
-        "body": "<p>This is a piece from the original soundtrack of the anime <em>Shinsekai yori</em> (also known as <em>From the New World</em> or <em>新世界より</em>).</p><p>The <a href=\"http://youtu.be/9DvLKU_zZe0\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/user/annd86107\" target=\"_blank\">陳司司</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the anime <em>Shinsekai yori</em> (also known as <em>From the New World</em> or <em>新世界より</em>).</p><p>The <a href=\"http://youtu.be/9DvLKU_zZe0\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/user/annd86107\" target=\"_blank\">陳司司</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Kage no Denshouka Dainibu",
                 "subtitle": "阴の伝承歌 第二部 (piano)",
-                "listen": "https://youtu.be/zHNtjiBAIQc",
-                "download": "https://sheet.host/sheet/S0W0Qr"
+                "video": "https://youtu.be/zHNtjiBAIQc",
+                "pdf": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.pdf",
+                "mid": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.mid",
+                "mscz": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.mscz"
             }
         ]
     },
@@ -302,12 +500,15 @@
         "title": "Assassin's Creed",
         "slug": "assassins-creed",
         "summary": "Fight Club",
-        "body": "<p>This is a piece from the original soundtrack of the action game <em>Assassin's Creed III</em>.</p><p>I used the melody of <em><a href=\"https://youtu.be/uXjABvXTghw\" target=\"_blank\">Pei-wen Tan's violin arrangement</a></em> and <em><a href=\"https://youtu.be/n7UNLjrBEAY\" target=\"_blank\">OwexGoard's accompaniment</a></em>.</p><p>You can listen to the song on YouTube or download it for free on Sheethost (PDF, MIDI or MuseScore files). Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the action game <em>Assassin's Creed III</em>.</p><p>I used the melody of <em><a href=\"https://youtu.be/uXjABvXTghw\" target=\"_blank\">Pei-wen Tan's violin arrangement</a></em> and <em><a href=\"https://youtu.be/n7UNLjrBEAY\" target=\"_blank\">OwexGoard's accompaniment</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
             {
                 "title": "Fight Club",
                 "subtitle": "(piano)",
-                "download": "https://sheet.host/sheet/SovKEc"
+                "video": "static/assets/assassins-creed/Fight Club.mp4",
+                "pdf": "static/assets/assassins-creed/Fight Club.pdf",
+                "mid": "static/assets/assassins-creed/Fight Club.mid",
+                "mscz": "static/assets/assassins-creed/Fight Club.mscz"
             }
         ]
     }
