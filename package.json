@@ -1,7 +1,7 @@
 {
   "name": "elias-kuiter-de-piano",
   "dependencies": {
-    "sass": "^1.21.0"
+    "sass": "^1.97.1"
   },
   "scripts": {
     "build": "sass --update sass:css --style compressed",
