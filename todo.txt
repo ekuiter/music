@@ -1,3 +1,0 @@
-deploy via GitHub pages
-update links under YouTube videos
-rename repository
