@@ -16,10 +16,10 @@
                 "title": "Enemy",
                 "subtitle": "Short Ver. (SATBB choir)",
                 "video": "https://youtu.be/NPQ4gwm2O6I",
-                "pdf": "static/assets/imagine-dragons/Enemy (Short).pdf",
-                "mid": "static/assets/imagine-dragons/Enemy (Short).mid",
-                "mp3": "static/assets/imagine-dragons/Enemy (Short).mp3",
-                "mscz": "static/assets/imagine-dragons/Enemy (Short).mscz"
+                "pdf": "docs/assets/imagine-dragons/Enemy (Short).pdf",
+                "mid": "docs/assets/imagine-dragons/Enemy (Short).mid",
+                "mp3": "docs/assets/imagine-dragons/Enemy (Short).mp3",
+                "mscz": "docs/assets/imagine-dragons/Enemy (Short).mscz"
             }
         ]
     },
@@ -33,10 +33,10 @@
                 "title": "Ancient Dreams in a Modern Land",
                 "subtitle": "(SATB choir)",
                 "video": "https://youtu.be/d9db-7egfnc",
-                "pdf": "static/assets/marina/Ancient Dreams in a Modern Land.pdf",
-                "mid": "static/assets/marina/Ancient Dreams in a Modern Land.mid",
-                "mp3": "static/assets/marina/Ancient Dreams in a Modern Land.mp3",
-                "mscz": "static/assets/marina/Ancient Dreams in a Modern Land.mscz"
+                "pdf": "docs/assets/marina/Ancient Dreams in a Modern Land.pdf",
+                "mid": "docs/assets/marina/Ancient Dreams in a Modern Land.mid",
+                "mp3": "docs/assets/marina/Ancient Dreams in a Modern Land.mp3",
+                "mscz": "docs/assets/marina/Ancient Dreams in a Modern Land.mscz"
             }
         ]
     },
@@ -51,10 +51,10 @@
                 "title": "Finite Simple Group",
                 "subtitle": "Of Order Two (TTBB ensemble)",
                 "video": "https://youtu.be/4KVVSLFyYuk",
-                "pdf": "static/assets/the-klein-four/Finite Simple Group.pdf",
-                "mid": "static/assets/the-klein-four/Finite Simple Group.mid",
-                "mp3": "static/assets/the-klein-four/Finite Simple Group.mp3",
-                "mscz": "static/assets/the-klein-four/Finite Simple Group.mscz"
+                "pdf": "docs/assets/the-klein-four/Finite Simple Group.pdf",
+                "mid": "docs/assets/the-klein-four/Finite Simple Group.mid",
+                "mp3": "docs/assets/the-klein-four/Finite Simple Group.mp3",
+                "mscz": "docs/assets/the-klein-four/Finite Simple Group.mscz"
             } 
         ]
     },
@@ -68,10 +68,10 @@
                 "title": "The Vagabond",
                 "subtitle": "(SSAATBB choir)",
                 "video": "https://youtu.be/Uy-P6birNO0",
-                "pdf": "static/assets/the-witcher-3/The Vagabond.pdf",
-                "mid": "static/assets/the-witcher-3/The Vagabond.mid",
-                "mp3": "static/assets/the-witcher-3/The Vagabond.mp3",
-                "mscz": "static/assets/the-witcher-3/The Vagabond.mscz"
+                "pdf": "docs/assets/the-witcher-3/The Vagabond.pdf",
+                "mid": "docs/assets/the-witcher-3/The Vagabond.mid",
+                "mp3": "docs/assets/the-witcher-3/The Vagabond.mp3",
+                "mscz": "docs/assets/the-witcher-3/The Vagabond.mscz"
             }
         ]
     },
@@ -85,37 +85,37 @@
                 "title": "Warrior",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/5G8A2xHdtAU",
-                "pdf": "static/assets/aurora/Warrior.pdf",
-                "mid": "static/assets/aurora/Warrior.mid",
-                "mp3": "static/assets/aurora/Warrior.mp3",
-                "mscz": "static/assets/aurora/Warrior.mscz"
+                "pdf": "docs/assets/aurora/Warrior.pdf",
+                "mid": "docs/assets/aurora/Warrior.mid",
+                "mp3": "docs/assets/aurora/Warrior.mp3",
+                "mscz": "docs/assets/aurora/Warrior.mscz"
             },
             {
                 "title": "The Seed",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/F50deTQaGV4",
-                "pdf": "static/assets/aurora/The Seed.pdf",
-                "mid": "static/assets/aurora/The Seed.mid",
-                "mp3": "static/assets/aurora/The Seed.mp3",
-                "mscz": "static/assets/aurora/The Seed.mscz"
+                "pdf": "docs/assets/aurora/The Seed.pdf",
+                "mid": "docs/assets/aurora/The Seed.mid",
+                "mp3": "docs/assets/aurora/The Seed.mp3",
+                "mscz": "docs/assets/aurora/The Seed.mscz"
             },
             {
                 "title": "The Seed",
                 "subtitle": "(SATB choir)",
                 "video": "https://youtu.be/bEvJAp5T1sM",
-                "pdf": "static/assets/aurora/The Seed (SATB).pdf",
-                "mid": "static/assets/aurora/The Seed (SATB).mid",
-                "mp3": "static/assets/aurora/The Seed (SATB).mp3",
-                "mscz": "static/assets/aurora/The Seed (SATB).mscz"
+                "pdf": "docs/assets/aurora/The Seed (SATB).pdf",
+                "mid": "docs/assets/aurora/The Seed (SATB).mid",
+                "mp3": "docs/assets/aurora/The Seed (SATB).mp3",
+                "mscz": "docs/assets/aurora/The Seed (SATB).mscz"
             },
             {
                 "title": "The Seed",
                 "subtitle": "Intro (SSAATB choir)",
                 "video": "https://youtu.be/1pgTkJOUJmI",
-                "pdf": "static/assets/aurora/The Seed (Intro).pdf",
-                "mid": "static/assets/aurora/The Seed (Intro).mid",
-                "mp3": "static/assets/aurora/The Seed (Intro).mp3",
-                "mscz": "static/assets/aurora/The Seed (Intro).mscz"
+                "pdf": "docs/assets/aurora/The Seed (Intro).pdf",
+                "mid": "docs/assets/aurora/The Seed (Intro).mid",
+                "mp3": "docs/assets/aurora/The Seed (Intro).mp3",
+                "mscz": "docs/assets/aurora/The Seed (Intro).mscz"
             }
         ]
     },
@@ -129,19 +129,19 @@
                 "title": "Glorious",
                 "subtitle": "Short Ver. (piano)",
                 "video": "https://youtu.be/CUXnnP41kBc",
-                "pdf": "static/assets/foxes/Glorious (Short).pdf",
-                "mid": "static/assets/foxes/Glorious (Short).mid",
-                "wav": "static/assets/foxes/Glorious (Short).wav",
-                "mscz": "static/assets/foxes/Glorious (Short).mscz"
+                "pdf": "docs/assets/foxes/Glorious (Short).pdf",
+                "mid": "docs/assets/foxes/Glorious (Short).mid",
+                "wav": "docs/assets/foxes/Glorious (Short).wav",
+                "mscz": "docs/assets/foxes/Glorious (Short).mscz"
             },
             {
                 "title": "Glorious",
                 "subtitle": "Extended Ver. (piano)",
                 "video": "https://youtu.be/8MYr-oS19qs",
-                "pdf": "static/assets/foxes/Glorious (Extended).pdf",
-                "mid": "static/assets/foxes/Glorious (Extended).mid",
-                "wav": "static/assets/foxes/Glorious (Extended).wav",
-                "mscz": "static/assets/foxes/Glorious (Extended).mscz"
+                "pdf": "docs/assets/foxes/Glorious (Extended).pdf",
+                "mid": "docs/assets/foxes/Glorious (Extended).mid",
+                "wav": "docs/assets/foxes/Glorious (Extended).wav",
+                "mscz": "docs/assets/foxes/Glorious (Extended).mscz"
             }
         ]
     },
@@ -155,19 +155,19 @@
                 "title": "Which Witch",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/FFj92WIFJhs",
-                "pdf": "static/assets/florence/Which Witch.pdf",
-                "mid": "static/assets/florence/Which Witch.mid",
-                "wav": "static/assets/florence/Which Witch.wav",
-                "mscz": "static/assets/florence/Which Witch.mscz"
+                "pdf": "docs/assets/florence/Which Witch.pdf",
+                "mid": "docs/assets/florence/Which Witch.mid",
+                "wav": "docs/assets/florence/Which Witch.wav",
+                "mscz": "docs/assets/florence/Which Witch.mscz"
             },
             {
                 "title": "Moderation",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/pH-cxm8YQdA",
-                "pdf": "static/assets/florence/Moderation.pdf",
-                "mid": "static/assets/florence/Moderation.mid",
-                "mp3": "static/assets/florence/Moderation.mp3",
-                "sib": "static/assets/florence/Moderation.sib"
+                "pdf": "docs/assets/florence/Moderation.pdf",
+                "mid": "docs/assets/florence/Moderation.mid",
+                "mp3": "docs/assets/florence/Moderation.mp3",
+                "sib": "docs/assets/florence/Moderation.sib"
             }
         ]
     },
@@ -181,19 +181,19 @@
                 "title": "Windy",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/cFpSEpldKWc",
-                "pdf": "static/assets/silence/Windy.pdf",
-                "mid": "static/assets/silence/Windy.mid",
-                "wav": "static/assets/silence/Windy.wav",
-                "mscz": "static/assets/silence/Windy.mscz"
+                "pdf": "docs/assets/silence/Windy.pdf",
+                "mid": "docs/assets/silence/Windy.mid",
+                "wav": "docs/assets/silence/Windy.wav",
+                "mscz": "docs/assets/silence/Windy.mscz"
             },
             {
                 "title": "Renie",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/WfgtSDFwBTk",
-                "pdf": "static/assets/silence/Renie.pdf",
-                "mid": "static/assets/silence/Renie.mid",
-                "wav": "static/assets/silence/Renie.wav",
-                "mscz": "static/assets/silence/Renie.mscz"
+                "pdf": "docs/assets/silence/Renie.pdf",
+                "mid": "docs/assets/silence/Renie.mid",
+                "wav": "docs/assets/silence/Renie.wav",
+                "mscz": "docs/assets/silence/Renie.mscz"
             }
         ]
     },
@@ -207,260 +207,260 @@
                 "number": "01.",
                 "title": "Bedtime Story",
                 "video": "https://youtu.be/CTI_-t3BU6Y",
-                "pdf": "static/assets/fran-bow/01. Bedtime Story.pdf",
-                "mid": "static/assets/fran-bow/01. Bedtime Story.mid",
-                "mp3": "static/assets/fran-bow/01. Bedtime Story.mp3",
-                "mscz": "static/assets/fran-bow/01. Bedtime Story.mscz"
+                "pdf": "docs/assets/fran-bow/01. Bedtime Story.pdf",
+                "mid": "docs/assets/fran-bow/01. Bedtime Story.mid",
+                "mp3": "docs/assets/fran-bow/01. Bedtime Story.mp3",
+                "mscz": "docs/assets/fran-bow/01. Bedtime Story.mscz"
             },
             {
                 "number": "02.",
                 "title": "Finding The Truth",
                 "video": "https://youtu.be/wm8YKnDQ5Hw",
-                "pdf": "static/assets/fran-bow/02. Finding The Truth.pdf",
-                "mid": "static/assets/fran-bow/02. Finding The Truth.mid",
-                "mp3": "static/assets/fran-bow/02. Finding The Truth.mp3",
-                "mscz": "static/assets/fran-bow/02. Finding The Truth.mscz"
+                "pdf": "docs/assets/fran-bow/02. Finding The Truth.pdf",
+                "mid": "docs/assets/fran-bow/02. Finding The Truth.mid",
+                "mp3": "docs/assets/fran-bow/02. Finding The Truth.mp3",
+                "mscz": "docs/assets/fran-bow/02. Finding The Truth.mscz"
             },
             {
                 "number": "03.",
                 "title": "Mr. Midnight",
                 "video": "https://youtu.be/xsbZh3w3H-Q",
-                "pdf": "static/assets/fran-bow/03. Mr. Midnight.pdf",
-                "mid": "static/assets/fran-bow/03. Mr. Midnight.mid",
-                "mp3": "static/assets/fran-bow/03. Mr. Midnight.mp3",
-                "mscz": "static/assets/fran-bow/03. Mr. Midnight.mscz"
+                "pdf": "docs/assets/fran-bow/03. Mr. Midnight.pdf",
+                "mid": "docs/assets/fran-bow/03. Mr. Midnight.mid",
+                "mp3": "docs/assets/fran-bow/03. Mr. Midnight.mp3",
+                "mscz": "docs/assets/fran-bow/03. Mr. Midnight.mscz"
             },
             {
                 "number": "04.",
                 "title": "The White Rabbit",
-                "video": "static/assets/fran-bow/04. The White Rabbit.mp4",
-                "pdf": "static/assets/fran-bow/04. The White Rabbit.pdf",
-                "mid": "static/assets/fran-bow/04. The White Rabbit.mid",
-                "mp3": "static/assets/fran-bow/04. The White Rabbit.mp3",
-                "mscz": "static/assets/fran-bow/04. The White Rabbit.mscz"
+                "video": "docs/assets/fran-bow/04. The White Rabbit.mp4",
+                "pdf": "docs/assets/fran-bow/04. The White Rabbit.pdf",
+                "mid": "docs/assets/fran-bow/04. The White Rabbit.mid",
+                "mp3": "docs/assets/fran-bow/04. The White Rabbit.mp3",
+                "mscz": "docs/assets/fran-bow/04. The White Rabbit.mscz"
             },
             {
                 "number": "05.",
                 "title": "A Little Talk",
                 "video": "https://youtu.be/bqzOfuGzNBA",
-                "pdf": "static/assets/fran-bow/05. A Little Talk.pdf",
-                "mid": "static/assets/fran-bow/05. A Little Talk.mid",
-                "mp3": "static/assets/fran-bow/05. A Little Talk.mp3",
-                "mscz": "static/assets/fran-bow/05. A Little Talk.mscz"
+                "pdf": "docs/assets/fran-bow/05. A Little Talk.pdf",
+                "mid": "docs/assets/fran-bow/05. A Little Talk.mid",
+                "mp3": "docs/assets/fran-bow/05. A Little Talk.mp3",
+                "mscz": "docs/assets/fran-bow/05. A Little Talk.mscz"
             },
             {
                 "number": "06.",
                 "title": "Black Tears",
                 "video": "https://youtu.be/GQe_BrBYWEg",
-                "pdf": "static/assets/fran-bow/06. Black Tears.pdf",
-                "mid": "static/assets/fran-bow/06. Black Tears.mid",
-                "mp3": "static/assets/fran-bow/06. Black Tears.mp3",
-                "mscz": "static/assets/fran-bow/06. Black Tears.mscz"
+                "pdf": "docs/assets/fran-bow/06. Black Tears.pdf",
+                "mid": "docs/assets/fran-bow/06. Black Tears.mid",
+                "mp3": "docs/assets/fran-bow/06. Black Tears.mp3",
+                "mscz": "docs/assets/fran-bow/06. Black Tears.mscz"
             },
             {
                 "number": "07.",
                 "title": "It Hunts Me",
                 "video": "https://youtu.be/3s8y2z-y_d0",
-                "pdf": "static/assets/fran-bow/07. It Hunts Me.pdf",
-                "mid": "static/assets/fran-bow/07. It Hunts Me.mid",
-                "mp3": "static/assets/fran-bow/07. It Hunts Me.mp3",
-                "mscz": "static/assets/fran-bow/07. It Hunts Me.mscz"
+                "pdf": "docs/assets/fran-bow/07. It Hunts Me.pdf",
+                "mid": "docs/assets/fran-bow/07. It Hunts Me.mid",
+                "mp3": "docs/assets/fran-bow/07. It Hunts Me.mp3",
+                "mscz": "docs/assets/fran-bow/07. It Hunts Me.mscz"
             },
             {
                 "number": "08.",
                 "title": "Cold Walls",
                 "video": "https://youtu.be/5hxTn9ytk0U",
-                "pdf": "static/assets/fran-bow/08. Cold Walls.pdf",
-                "mid": "static/assets/fran-bow/08. Cold Walls.mid",
-                "mp3": "static/assets/fran-bow/08. Cold Walls.mp3",
-                "mscz": "static/assets/fran-bow/08. Cold Walls.mscz"
+                "pdf": "docs/assets/fran-bow/08. Cold Walls.pdf",
+                "mid": "docs/assets/fran-bow/08. Cold Walls.mid",
+                "mp3": "docs/assets/fran-bow/08. Cold Walls.mp3",
+                "mscz": "docs/assets/fran-bow/08. Cold Walls.mscz"
             },
             {
                 "number": "09.",
                 "title": "Details Omitted",
                 "video": "https://youtu.be/UKHprknKUU4",
-                "pdf": "static/assets/fran-bow/09. Details Omitted.pdf",
-                "mid": "static/assets/fran-bow/09. Details Omitted.mid",
-                "mp3": "static/assets/fran-bow/09. Details Omitted.mp3",
-                "mscz": "static/assets/fran-bow/09. Details Omitted.mscz"
+                "pdf": "docs/assets/fran-bow/09. Details Omitted.pdf",
+                "mid": "docs/assets/fran-bow/09. Details Omitted.mid",
+                "mp3": "docs/assets/fran-bow/09. Details Omitted.mp3",
+                "mscz": "docs/assets/fran-bow/09. Details Omitted.mscz"
             },
             {
                 "number": "10.",
                 "title": "I Can See",
                 "video": "https://youtu.be/UhjJbEetwco",
-                "pdf": "static/assets/fran-bow/10. I Can See.pdf",
-                "mid": "static/assets/fran-bow/10. I Can See.mid",
-                "mp3": "static/assets/fran-bow/10. I Can See.mp3",
-                "mscz": "static/assets/fran-bow/10. I Can See.mscz"
+                "pdf": "docs/assets/fran-bow/10. I Can See.pdf",
+                "mid": "docs/assets/fran-bow/10. I Can See.mid",
+                "mp3": "docs/assets/fran-bow/10. I Can See.mp3",
+                "mscz": "docs/assets/fran-bow/10. I Can See.mscz"
             },
             {
                 "number": "11.",
                 "title": "Downstairs",
                 "video": "https://youtu.be/2VSsp_fKuo8",
-                "pdf": "static/assets/fran-bow/11. Downstairs.pdf",
-                "mid": "static/assets/fran-bow/11. Downstairs.mid",
-                "mp3": "static/assets/fran-bow/11. Downstairs.mp3",
-                "mscz": "static/assets/fran-bow/11. Downstairs.mscz"
+                "pdf": "docs/assets/fran-bow/11. Downstairs.pdf",
+                "mid": "docs/assets/fran-bow/11. Downstairs.mid",
+                "mp3": "docs/assets/fran-bow/11. Downstairs.mp3",
+                "mscz": "docs/assets/fran-bow/11. Downstairs.mscz"
             },
             {
                 "number": "12.",
                 "title": "Inside The Children's Head",
                 "video": "https://youtu.be/7l7E4E9I1lk",
-                "pdf": "static/assets/fran-bow/12. Inside The Children's Head.pdf",
-                "mid": "static/assets/fran-bow/12. Inside The Children's Head.mid",
-                "mp3": "static/assets/fran-bow/12. Inside The Children's Head.mp3",
-                "mscz": "static/assets/fran-bow/12. Inside The Children's Head.mscz"
+                "pdf": "docs/assets/fran-bow/12. Inside The Children's Head.pdf",
+                "mid": "docs/assets/fran-bow/12. Inside The Children's Head.mid",
+                "mp3": "docs/assets/fran-bow/12. Inside The Children's Head.mp3",
+                "mscz": "docs/assets/fran-bow/12. Inside The Children's Head.mscz"
             },
             {
                 "number": "13.",
                 "title": "Lost On The Path",
                 "video": "https://youtu.be/Bba8DtuQTPQ",
-                "pdf": "static/assets/fran-bow/13. Lost On The Path.pdf",
-                "mid": "static/assets/fran-bow/13. Lost On The Path.mid",
-                "mp3": "static/assets/fran-bow/13. Lost On The Path.mp3",
-                "mscz": "static/assets/fran-bow/13. Lost On The Path.mscz"
+                "pdf": "docs/assets/fran-bow/13. Lost On The Path.pdf",
+                "mid": "docs/assets/fran-bow/13. Lost On The Path.mid",
+                "mp3": "docs/assets/fran-bow/13. Lost On The Path.mp3",
+                "mscz": "docs/assets/fran-bow/13. Lost On The Path.mscz"
             },
             {
                 "number": "15.",
                 "title": "Duality",
                 "video": "https://youtu.be/YDdxlLRvCic",
-                "pdf": "static/assets/fran-bow/15. Duality.pdf",
-                "mid": "static/assets/fran-bow/15. Duality.mid",
-                "mp3": "static/assets/fran-bow/15. Duality.mp3",
-                "mscz": "static/assets/fran-bow/15. Duality.mscz"
+                "pdf": "docs/assets/fran-bow/15. Duality.pdf",
+                "mid": "docs/assets/fran-bow/15. Duality.mid",
+                "mp3": "docs/assets/fran-bow/15. Duality.mp3",
+                "mscz": "docs/assets/fran-bow/15. Duality.mscz"
             },
             {
                 "number": "16.",
                 "title": "This Is The Forest",
                 "video": "https://youtu.be/3w68Hi0c8HM",
-                "pdf": "static/assets/fran-bow/16. This Is The Forest.pdf",
-                "mid": "static/assets/fran-bow/16. This Is The Forest.mid",
-                "mp3": "static/assets/fran-bow/16. This Is The Forest.mp3",
-                "mscz": "static/assets/fran-bow/16. This Is The Forest.mscz"
+                "pdf": "docs/assets/fran-bow/16. This Is The Forest.pdf",
+                "mid": "docs/assets/fran-bow/16. This Is The Forest.mid",
+                "mp3": "docs/assets/fran-bow/16. This Is The Forest.mp3",
+                "mscz": "docs/assets/fran-bow/16. This Is The Forest.mscz"
             },
             {
                 "number": "17.",
                 "title": "Sitting In Company",
                 "video": "https://youtu.be/Y38nEyT8fLw",
-                "pdf": "static/assets/fran-bow/17. Sitting In Company.pdf",
-                "mid": "static/assets/fran-bow/17. Sitting In Company.mid",
-                "mp3": "static/assets/fran-bow/17. Sitting In Company.mp3",
-                "mscz": "static/assets/fran-bow/17. Sitting In Company.mscz"
+                "pdf": "docs/assets/fran-bow/17. Sitting In Company.pdf",
+                "mid": "docs/assets/fran-bow/17. Sitting In Company.mid",
+                "mp3": "docs/assets/fran-bow/17. Sitting In Company.mp3",
+                "mscz": "docs/assets/fran-bow/17. Sitting In Company.mscz"
             },
             {
                 "number": "18.",
                 "title": "Let's Start Over",
                 "video": "https://youtu.be/bOpibBiqKtY",
-                "pdf": "static/assets/fran-bow/18. Let's Start Over.pdf",
-                "mid": "static/assets/fran-bow/18. Let's Start Over.mid",
-                "mp3": "static/assets/fran-bow/18. Let's Start Over.mp3",
-                "mscz": "static/assets/fran-bow/18. Let's Start Over.mscz"
+                "pdf": "docs/assets/fran-bow/18. Let's Start Over.pdf",
+                "mid": "docs/assets/fran-bow/18. Let's Start Over.mid",
+                "mp3": "docs/assets/fran-bow/18. Let's Start Over.mp3",
+                "mscz": "docs/assets/fran-bow/18. Let's Start Over.mscz"
             },
             {
                 "number": "19.",
                 "title": "The King Of Ithersta",
                 "video": "https://youtu.be/69SGWkYjJgE",
-                "pdf": "static/assets/fran-bow/19. The King Of Ithersta.pdf",
-                "mid": "static/assets/fran-bow/19. The King Of Ithersta.mid",
-                "mp3": "static/assets/fran-bow/19. The King Of Ithersta.mp3",
-                "mscz": "static/assets/fran-bow/19. The King Of Ithersta.mscz"
+                "pdf": "docs/assets/fran-bow/19. The King Of Ithersta.pdf",
+                "mid": "docs/assets/fran-bow/19. The King Of Ithersta.mid",
+                "mp3": "docs/assets/fran-bow/19. The King Of Ithersta.mp3",
+                "mscz": "docs/assets/fran-bow/19. The King Of Ithersta.mscz"
             },
             {
                 "number": "20.",
                 "title": "Get Rid Of The Dirt",
-                "video": "static/assets/fran-bow/20. Get Rid Of The Dirt.mp4",
-                "pdf": "static/assets/fran-bow/20. Get Rid Of The Dirt.pdf",
-                "mid": "static/assets/fran-bow/20. Get Rid Of The Dirt.mid",
-                "mp3": "static/assets/fran-bow/20. Get Rid Of The Dirt.mp3",
-                "mscz": "static/assets/fran-bow/20. Get Rid Of The Dirt.mscz"
+                "video": "docs/assets/fran-bow/20. Get Rid Of The Dirt.mp4",
+                "pdf": "docs/assets/fran-bow/20. Get Rid Of The Dirt.pdf",
+                "mid": "docs/assets/fran-bow/20. Get Rid Of The Dirt.mid",
+                "mp3": "docs/assets/fran-bow/20. Get Rid Of The Dirt.mp3",
+                "mscz": "docs/assets/fran-bow/20. Get Rid Of The Dirt.mscz"
             },
             {
                 "number": "23.",
                 "title": "Philmore Paranoid",
                 "video": "https://youtu.be/iHXiJNuMVTw",
-                "pdf": "static/assets/fran-bow/23. Philmore Paranoid.pdf",
-                "mid": "static/assets/fran-bow/23. Philmore Paranoid.mid",
-                "mp3": "static/assets/fran-bow/23. Philmore Paranoid.mp3",
-                "mscz": "static/assets/fran-bow/23. Philmore Paranoid.mscz"
+                "pdf": "docs/assets/fran-bow/23. Philmore Paranoid.pdf",
+                "mid": "docs/assets/fran-bow/23. Philmore Paranoid.mid",
+                "mp3": "docs/assets/fran-bow/23. Philmore Paranoid.mp3",
+                "mscz": "docs/assets/fran-bow/23. Philmore Paranoid.mscz"
             },
             {
                 "number": "24.",
                 "title": "Take Me Home",
                 "video": "https://youtu.be/4TO8-3dmTwQ",
-                "pdf": "static/assets/fran-bow/24. Take Me Home.pdf",
-                "mid": "static/assets/fran-bow/24. Take Me Home.mid",
-                "mp3": "static/assets/fran-bow/24. Take Me Home.mp3",
-                "mscz": "static/assets/fran-bow/24. Take Me Home.mscz"
+                "pdf": "docs/assets/fran-bow/24. Take Me Home.pdf",
+                "mid": "docs/assets/fran-bow/24. Take Me Home.mid",
+                "mp3": "docs/assets/fran-bow/24. Take Me Home.mp3",
+                "mscz": "docs/assets/fran-bow/24. Take Me Home.mscz"
             },
             {
                 "number": "25.",
                 "title": "When Things Are Said",
                 "video": "https://youtu.be/aBgCa-WtEJo",
-                "pdf": "static/assets/fran-bow/25. When Things Are Said.pdf",
-                "mid": "static/assets/fran-bow/25. When Things Are Said.mid",
-                "mp3": "static/assets/fran-bow/25. When Things Are Said.mp3",
-                "mscz": "static/assets/fran-bow/25. When Things Are Said.mscz"
+                "pdf": "docs/assets/fran-bow/25. When Things Are Said.pdf",
+                "mid": "docs/assets/fran-bow/25. When Things Are Said.mid",
+                "mp3": "docs/assets/fran-bow/25. When Things Are Said.mp3",
+                "mscz": "docs/assets/fran-bow/25. When Things Are Said.mscz"
             },
             {
                 "number": "28.",
                 "title": "My Friend Is Leaving",
                 "video": "https://youtu.be/BpqGX4IMAXg",
-                "pdf": "static/assets/fran-bow/28. My Friend Is Leaving.pdf",
-                "mid": "static/assets/fran-bow/28. My Friend Is Leaving.mid",
-                "mp3": "static/assets/fran-bow/28. My Friend Is Leaving.mp3",
-                "mscz": "static/assets/fran-bow/28. My Friend Is Leaving.mscz"
+                "pdf": "docs/assets/fran-bow/28. My Friend Is Leaving.pdf",
+                "mid": "docs/assets/fran-bow/28. My Friend Is Leaving.mid",
+                "mp3": "docs/assets/fran-bow/28. My Friend Is Leaving.mp3",
+                "mscz": "docs/assets/fran-bow/28. My Friend Is Leaving.mscz"
             },
             {
                 "number": "36.",
                 "title": "They Will Find You",
                 "video": "https://youtu.be/S4bCTR9Mg2w",
-                "pdf": "static/assets/fran-bow/36. They Will Find You.pdf",
-                "mid": "static/assets/fran-bow/36. They Will Find You.mid",
-                "mp3": "static/assets/fran-bow/36. They Will Find You.mp3",
-                "mscz": "static/assets/fran-bow/36. They Will Find You.mscz"
+                "pdf": "docs/assets/fran-bow/36. They Will Find You.pdf",
+                "mid": "docs/assets/fran-bow/36. They Will Find You.mid",
+                "mp3": "docs/assets/fran-bow/36. They Will Find You.mp3",
+                "mscz": "docs/assets/fran-bow/36. They Will Find You.mscz"
             },
             {
                 "number": "39.",
                 "title": "Fluffy Toad Bun",
                 "video": "https://youtu.be/PWVihHHmR-Y",
-                "pdf": "static/assets/fran-bow/39. Fluffy Toad Bun.pdf",
-                "mid": "static/assets/fran-bow/39. Fluffy Toad Bun.mid",
-                "mp3": "static/assets/fran-bow/39. Fluffy Toad Bun.mp3",
-                "mscz": "static/assets/fran-bow/39. Fluffy Toad Bun.mscz"
+                "pdf": "docs/assets/fran-bow/39. Fluffy Toad Bun.pdf",
+                "mid": "docs/assets/fran-bow/39. Fluffy Toad Bun.mid",
+                "mp3": "docs/assets/fran-bow/39. Fluffy Toad Bun.mp3",
+                "mscz": "docs/assets/fran-bow/39. Fluffy Toad Bun.mscz"
             },
             {
                 "number": "41.",
                 "title": "Sneaky Fran",
                 "video": "https://youtu.be/dTz_EJreRVY",
-                "pdf": "static/assets/fran-bow/41. Sneaky Fran.pdf",
-                "mid": "static/assets/fran-bow/41. Sneaky Fran.mid",
-                "mp3": "static/assets/fran-bow/41. Sneaky Fran.mp3",
-                "mscz": "static/assets/fran-bow/41. Sneaky Fran.mscz"
+                "pdf": "docs/assets/fran-bow/41. Sneaky Fran.pdf",
+                "mid": "docs/assets/fran-bow/41. Sneaky Fran.mid",
+                "mp3": "docs/assets/fran-bow/41. Sneaky Fran.mp3",
+                "mscz": "docs/assets/fran-bow/41. Sneaky Fran.mscz"
             },
             {
                 "number": "42.",
                 "title": "The Bow Family",
                 "video": "https://youtu.be/wE9TuEbpwus",
-                "pdf": "static/assets/fran-bow/42. The Bow Family.pdf",
-                "mid": "static/assets/fran-bow/42. The Bow Family.mid",
-                "mp3": "static/assets/fran-bow/42. The Bow Family.mp3",
-                "mscz": "static/assets/fran-bow/42. The Bow Family.mscz"
+                "pdf": "docs/assets/fran-bow/42. The Bow Family.pdf",
+                "mid": "docs/assets/fran-bow/42. The Bow Family.mid",
+                "mp3": "docs/assets/fran-bow/42. The Bow Family.mp3",
+                "mscz": "docs/assets/fran-bow/42. The Bow Family.mscz"
             },
             {
                 "number": "43.",
                 "title": "Between Black And White",
                 "video": "https://youtu.be/h3Gtn43BkuI",
-                "pdf": "static/assets/fran-bow/43. Between Black And White.pdf",
-                "mid": "static/assets/fran-bow/43. Between Black And White.mid",
-                "mp3": "static/assets/fran-bow/43. Between Black And White.mp3",
-                "mscz": "static/assets/fran-bow/43. Between Black And White.mscz"
+                "pdf": "docs/assets/fran-bow/43. Between Black And White.pdf",
+                "mid": "docs/assets/fran-bow/43. Between Black And White.mid",
+                "mp3": "docs/assets/fran-bow/43. Between Black And White.mp3",
+                "mscz": "docs/assets/fran-bow/43. Between Black And White.mscz"
             },
             {
                 "title": "Finding Mr. Midnight",
                 "subtitle": "by <em>Random Encounters</em>",
-                "pdf": "static/assets/fran-bow/Finding Mr. Midnight.pdf",
-                "mid": "static/assets/fran-bow/Finding Mr. Midnight.mid",
-                "mscz": "static/assets/fran-bow/Finding Mr. Midnight.mscz"
+                "pdf": "docs/assets/fran-bow/Finding Mr. Midnight.pdf",
+                "mid": "docs/assets/fran-bow/Finding Mr. Midnight.mid",
+                "mscz": "docs/assets/fran-bow/Finding Mr. Midnight.mscz"
             }
         ]
     },
@@ -474,9 +474,9 @@
                 "title": "The Mourning Tree",
                 "subtitle": "(piano)",
                 "video": "https://youtu.be/2PGcMPXwQIs",
-                "pdf": "static/assets/rapture/The Mourning Tree.pdf",
-                "mid": "static/assets/rapture/The Mourning Tree.mid",
-                "mscz": "static/assets/rapture/The Mourning Tree.mscz"
+                "pdf": "docs/assets/rapture/The Mourning Tree.pdf",
+                "mid": "docs/assets/rapture/The Mourning Tree.mid",
+                "mscz": "docs/assets/rapture/The Mourning Tree.mscz"
             }
         ]
     },
@@ -490,9 +490,9 @@
                 "title": "Kage no Denshouka Dainibu",
                 "subtitle": "阴の伝承歌 第二部 (piano)",
                 "video": "https://youtu.be/zHNtjiBAIQc",
-                "pdf": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.pdf",
-                "mid": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.mid",
-                "mscz": "static/assets/shinsekai-yori/Kage no Denshouka Dainibu.mscz"
+                "pdf": "docs/assets/shinsekai-yori/Kage no Denshouka Dainibu.pdf",
+                "mid": "docs/assets/shinsekai-yori/Kage no Denshouka Dainibu.mid",
+                "mscz": "docs/assets/shinsekai-yori/Kage no Denshouka Dainibu.mscz"
             }
         ]
     },
@@ -505,10 +505,10 @@
             {
                 "title": "Fight Club",
                 "subtitle": "(piano)",
-                "video": "static/assets/assassins-creed/Fight Club.mp4",
-                "pdf": "static/assets/assassins-creed/Fight Club.pdf",
-                "mid": "static/assets/assassins-creed/Fight Club.mid",
-                "mscz": "static/assets/assassins-creed/Fight Club.mscz"
+                "video": "docs/assets/assassins-creed/Fight Club.mp4",
+                "pdf": "docs/assets/assassins-creed/Fight Club.pdf",
+                "mid": "docs/assets/assassins-creed/Fight Club.mid",
+                "mscz": "docs/assets/assassins-creed/Fight Club.mscz"
             }
         ]
     }

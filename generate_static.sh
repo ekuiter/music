@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# brew install composer php wget npm # if you don't have these installed
 set -euo pipefail
 
 ###
@@ -7,7 +8,7 @@ set -euo pipefail
 PHP_HOST="127.0.0.1"
 PHP_PORT="8000"
 PHP_DOCROOT="."
-BUILD_DIR="static"
+BUILD_DIR="docs"
 BASE_URL="http://${PHP_HOST}:${PHP_PORT}"
 
 ###
@@ -62,7 +63,7 @@ wget \
 ###
 # OPTIONAL: MOVE FILES UP ONE LEVEL
 ###
-# wget nests output inside a host directory (e.g. static/127.0.0.1:8000)
+# wget nests output inside a host directory (e.g. docs/127.0.0.1:8000)
 CRAWLED_DIR="${BUILD_DIR}/${PHP_HOST}:${PHP_PORT}"
 
 if [ -d "${CRAWLED_DIR}" ]; then
@@ -72,8 +73,8 @@ if [ -d "${CRAWLED_DIR}" ]; then
     rm -rf "${CRAWLED_DIR}"
 fi
 
-# Remove any leftover static/ directory
-rm -rf "${BUILD_DIR}/static"
+# Remove any leftover docs/ directory
+rm -rf "${BUILD_DIR}/docs"
 
 echo "✅ Static site generated in ./${BUILD_DIR}"
 
@@ -105,6 +106,6 @@ find "${BUILD_DIR}" -name "*.html" -type f -print0 | while IFS= read -r -d '' fi
   # index.html?p=aurora → aurora.html
   sed -i '' -E 's/index\.html\?p=([^"&]+)/\1.html/g' "$file"
 
-  # Replace static/assets/... → assets/...
-  sed -i '' -E 's/static\/assets/assets/g' "$file"
+  # Replace docs/assets/... → assets/...
+  sed -i '' -E 's/docs\/assets/assets/g' "$file"
 done
