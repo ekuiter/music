@@ -73,4 +73,5 @@
 .nav-left ul.nav li.active a, .nav-top ul.nav li.active a {
   color: $navActiveTextColor;
   background-color: $navActiveColor;
+  font-weight: bold;
 }

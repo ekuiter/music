@@ -37,17 +37,17 @@ ul.sheet-music {
       display: flex;
       justify-content: flex-end;
       
-      > li {
+      > li:not(:empty) {
         padding: 0 8px;
         
-        &:nth-child(1) a {
-          background: $bulletImage left center no-repeat;
+        &.video a {
           padding-left: 22px;
+          background: $bulletImage left center no-repeat;
         }
         
-        &:nth-child(2) a {
-          background: url(../img/pdf.png) left center no-repeat;
+        &.pdf a {
           padding-left: 22px;
+          background: url(../img/pdf.png) left center no-repeat;
         }
       }
     }

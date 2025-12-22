@@ -1,9 +1,15 @@
 @import 'normalize', 'mixins';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 html, body {
     height: 100%;
     color: $textColor;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+}
+
+strong, b {
+  font-weight: 700 !important;
 }
 
 h1 {
