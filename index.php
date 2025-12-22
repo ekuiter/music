@@ -39,6 +39,7 @@ class Renderer {
             "layout.html",
             array(
                 array("assign" => "slug", "to" => $this->getProperty("slug")),
+                array("assign" => "style", "to" => $this->getProperty("style") ?: $this->getProperty("slug")),
                 array("assign" => "title", "to" => $this->getProperty("title")),
                 array("assign" => "body", "to" => $this->getProperty("body")),
                 array("assign" => "background", "to" => $this->getProperty("background")),
@@ -72,13 +73,35 @@ class Renderer {
         return $nav."</ul>";
     }
 
+    private function getFileLink($type, $song) {
+        $url = $this->getProperty($type, $song);
+        $labels = array("video" => "Listen", "mid" => "MIDI", "mscz" => "MuseScore", "sib" => "Sibelius");
+        $label = isset($labels[$type]) ? $labels[$type] : strtoupper($type);
+        return $url ? "<a href=\"$url\" target=\"_blank\">$label</a>" : "";
+    }
+
     private function getSongs() {
         $songs = $this->getProperty("songs");
         if (!$songs)
             return "";
         $html = "<ul class=\"sheet-music\">";
-        foreach ($songs as $song)
-            $html .= "<li><p>".$this->getProperty("number", $song)." <strong>".$this->getProperty("title", $song)."</strong> ".$this->getProperty("subtitle", $song)."</p><ul><li>".($this->getProperty("listen", $song) ? "<a href=\"".$this->getProperty("listen", $song)."\" target=\"_blank\">Listen</a>" : "")."</li><li>".($this->getProperty("download", $song) ? "<a href=\"".$this->getProperty("download", $song)."\" target=\"_blank\">Download</a>" : "")."</li></ul></li>\n";
+        foreach ($songs as $song) {
+            $html .= fphp\File\TemplateFile::render(
+                "song.html",
+                array(
+                    array("assign" => "number", "to" => $this->getProperty("number", $song)),
+                    array("assign" => "title", "to" => $this->getProperty("title", $song)),
+                    array("assign" => "subtitle", "to" => $this->getProperty("subtitle", $song)),
+                    array("assign" => "video", "to" => $this->getFileLink("video", $song)),
+                    array("assign" => "pdf", "to" => $this->getFileLink("pdf", $song)),
+                    array("assign" => "mid", "to" => $this->getFileLink("mid", $song)),
+                    array("assign" => "mp3", "to" => $this->getFileLink("mp3", $song)),
+                    array("assign" => "wav", "to" => $this->getFileLink("wav", $song)),
+                    array("assign" => "mscz", "to" => $this->getFileLink("mscz", $song)),
+                    array("assign" => "sib", "to" => $this->getFileLink("sib", $song)),
+                ),
+                __DIR__);
+        }
         return $html."</ul>";
     }
 }
