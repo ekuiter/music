@@ -23,3 +23,9 @@ $navHoverAnimation: 3px;
 body {
     background: #555;
 }
+
+.header {
+    .header-inner .header-image {
+        height: auto;
+    }
+}
