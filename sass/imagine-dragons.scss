@@ -1,0 +1,29 @@
+$siteWidth: 1200px;
+$headerHeight: 120px;
+$smallBreakpoint: 700px;
+$mediumBreakpoint: 900px;
+$bulletImage: url(../img/notes-white.png);
+$activeBulletImage: url(../img/notes-black.png);
+$textColor: #eee;
+$headerColor: darken(#312227, 10%);
+$bgColor: rgba(32, 32, 32, 0.75);
+$linkColor: #ee385a;
+$accentColor: #ee385a;
+$navDarkColor: darken($bgColor, 4%);
+$navActiveColor: $linkColor;
+$navActiveTextColor: $textColor;
+$sheetMusicColor: #312227;
+$sheetMusicActiveColor: lighten($sheetMusicColor, 10%);
+$sheetMusicActiveTextColor: rgba($bgColor, 1);
+$contentPadding: 10px;
+$navHoverAnimation: 3px;
+
+@import 'main';
+
+body {
+    background: #fff url(../img/imagine-dragons-bg.jpg) bottom center / 100% auto no-repeat fixed;
+}
+
+.header {
+  text-shadow: 2px 1px 3px $textColor !important;
+}

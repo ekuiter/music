@@ -8,7 +8,6 @@
     {
         "title": "Imagine Dragons",
         "slug": "imagine-dragons",
-        "style": "default",
         "summary": "Enemy",
         "body": "<p>This is a song from the Netflix series <em>Arcane</em>, created by <em>Imagine Dragons</em>. The arrangement was inspired by the a capella group <em><a href=\"https://www.youtube.com/watch?v=ojlEskF5HX0\" target=\"_blank\">MayTree</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
         "songs": [
