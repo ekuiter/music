@@ -9,7 +9,7 @@
         "title": "Imagine Dragons",
         "slug": "imagine-dragons",
         "summary": "Enemy",
-        "body": "<p>This is a song from the Netflix series <em>Arcane</em>, created by <em>Imagine Dragons</em>. The arrangement was inspired by the a capella group <em><a href=\"https://www.youtube.com/watch?v=ojlEskF5HX0\" target=\"_blank\">MayTree</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from the Netflix series <em>Arcane</em>, created by <em>Imagine Dragons</em>. The arrangement was inspired by the a capella group <em><a href=\"https://www.youtube.com/watch?v=ojlEskF5HX0\" target=\"_blank\">MayTree</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Enemy",
@@ -35,7 +35,7 @@
         "title": "MARINA",
         "slug": "marina",
         "summary": "Ancient Dreams in a Modern Land",
-        "body": "<p>This is a song from the album <em>Ancient Dreams in a Modern Land</em> by <em><a href=\"https://www.marinaofficial.co.uk/\" target=\"_blank\">Marina Diamandis</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from the album <em>Ancient Dreams in a Modern Land</em> by <em><a href=\"https://www.marinaofficial.co.uk/\" target=\"_blank\">Marina Diamandis</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Ancient Dreams in a Modern Land",
@@ -53,7 +53,7 @@
         "slug": "the-klein-four",
         "style": "default",
         "summary": "Finite Simple Group",
-        "body": "<p>This is a song from <em>The Klein Four</em>, an a cappella group that produces comedic songs about and involving mathematics.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from <em>The Klein Four</em>, an a cappella group that produces comedic songs about and involving mathematics.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Finite Simple Group",
@@ -70,7 +70,7 @@
         "title": "The Witcher 3",
         "slug": "the-witcher-3",
         "summary": "The Vagabond",
-        "body": "<p>This is a piece from the original soundtrack of the action game <em>The Witcher 3: Wild Hunt</em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the action game <em>The Witcher 3: Wild Hunt</em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "The Vagabond",
@@ -87,7 +87,7 @@
         "title": "AURORA",
         "slug": "aurora",
         "summary": "Warrior, The Seed",
-        "body": "<p>These are some songs from the Norwegian artist <em><a href=\"https://www.aurora-music.com/\" target=\"_blank\">Aurora Aksnes</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>These are some songs from the Norwegian artist <em><a href=\"https://www.aurora-music.com/\" target=\"_blank\">Aurora Aksnes</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Warrior",
@@ -131,7 +131,7 @@
         "title": "Foxes",
         "slug": "foxes",
         "summary": "Glorious",
-        "body": "<p>This is a song from the album <em>Glorious</em> by <em><a href=\"https://twitter.com/iamfoxes/\" target=\"_blank\">Foxes</a></em>.</p><p>Two versions are available: A short and an extended one (which has another chorus at the end and is more difficult). The <a href=\"http://youtu.be/Odu3fWtTx3s\" target=\"_blank\">background instrumental</a> was made by <em><a href=\"https://www.youtube.com/channel/UC__viPsXI_bHE6M_r_7fR-w\" target=\"_blank\">_SLP</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a song from the album <em>Glorious</em> by <em><a href=\"https://twitter.com/iamfoxes/\" target=\"_blank\">Foxes</a></em>.</p><p>Two versions are available: A short and an extended one (which has another chorus at the end and is more difficult). The <a href=\"http://youtu.be/Odu3fWtTx3s\" target=\"_blank\">background instrumental</a> was made by <em><a href=\"https://www.youtube.com/channel/UC__viPsXI_bHE6M_r_7fR-w\" target=\"_blank\">_SLP</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Glorious",
@@ -157,7 +157,7 @@
         "title": "Florence + The Machine",
         "slug": "florence",
         "summary": "Which Witch, Moderation",
-        "body": "<p>These are some songs from <em><a href=\"http://florenceandthemachine.net/\" target=\"_blank\">Florence + The Machine</a></em>. <em>Which Witch</em> is from her third album, <em>How Big, How Blue, How Beautiful</em>. <em>Moderation</em> has been released as a single in January 2019.</p><p>The <a href=\"http://youtu.be/WB-cvAM28SQ\" target=\"_blank\">arrangement</a> for <em>Which Witch</em> was made by <em><a href=\"https://www.youtube.com/channel/UCl2_EEC-il22FQ2_jU5Lp-Q\" target=\"_blank\">An Almighty Sound</a></em>, I've only created the sheet music for it. In the background you can hear the incredible <a href=\"http://youtu.be/SjRNpmSWl_8\" target=\"_blank\">instrumental remake</a> made by <em><a href=\"https://www.youtube.com/channel/UCLBvnq5KmCfcpwVKMyU3CSw\" target=\"_blank\">Highway Monster</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>These are some songs from <em><a href=\"http://florenceandthemachine.net/\" target=\"_blank\">Florence + The Machine</a></em>. <em>Which Witch</em> is from her third album, <em>How Big, How Blue, How Beautiful</em>. <em>Moderation</em> has been released as a single in January 2019.</p><p>The <a href=\"http://youtu.be/WB-cvAM28SQ\" target=\"_blank\">arrangement</a> for <em>Which Witch</em> was made by <em><a href=\"https://www.youtube.com/channel/UCl2_EEC-il22FQ2_jU5Lp-Q\" target=\"_blank\">An Almighty Sound</a></em>, I've only created the sheet music for it. In the background you can hear the incredible <a href=\"http://youtu.be/SjRNpmSWl_8\" target=\"_blank\">instrumental remake</a> made by <em><a href=\"https://www.youtube.com/channel/UCLBvnq5KmCfcpwVKMyU3CSw\" target=\"_blank\">Highway Monster</a></em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Which Witch",
@@ -183,7 +183,7 @@
         "title": "Silence",
         "slug": "silence",
         "summary": "Windy, Renie",
-        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"http://store.steampowered.com/app/556290/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Silence</em> (also known as <em>The Whispered World 2</em>).</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"http://store.steampowered.com/app/556290/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Silence</em> (also known as <em>The Whispered World 2</em>).</p><p>You can listen to each song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Windy",
@@ -209,7 +209,7 @@
         "title": "Fran Bow",
         "slug": "fran-bow",
         "summary": "Black Tears, When Things Are Said &amp; more",
-        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"https://isakmartinsson.bandcamp.com/album/fran-bow-original-soundtrack\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Fran Bow</em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a collection of piano sheet music I made for the <a href=\"https://isakmartinsson.bandcamp.com/album/fran-bow-original-soundtrack\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Fran Bow</em>.</p><p>You can listen to each song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "number": "01.",
@@ -476,7 +476,7 @@
         "title": "Everybody's Gone to the Rapture",
         "slug": "rapture",
         "summary": "The Mourning Tree",
-        "body": "<p>This is a piece from the <a href=\"http://www.jessicacurry.co.uk/rapture/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Everybody's Gone to the Rapture</em>.</p><p>The <a href=\"https://youtu.be/2PGcMPXwQIs\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/channel/UCQYW4I7G3ifZ32uphtjd03g\" target=\"_blank\">LillyTalent</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the <a href=\"http://www.jessicacurry.co.uk/rapture/\" target=\"_blank\">original soundtrack</a> of the adventure game <em>Everybody's Gone to the Rapture</em>.</p><p>The <a href=\"https://youtu.be/2PGcMPXwQIs\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/channel/UCQYW4I7G3ifZ32uphtjd03g\" target=\"_blank\">LillyTalent</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "The Mourning Tree",
@@ -492,7 +492,7 @@
         "title": "Shinsekai yori",
         "slug": "shinsekai-yori",
         "summary": "Kage no Denshouka Dainibu",
-        "body": "<p>This is a piece from the original soundtrack of the anime <em>Shinsekai yori</em> (also known as <em>From the New World</em> or <em>新世界より</em>).</p><p>The <a href=\"http://youtu.be/9DvLKU_zZe0\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/user/annd86107\" target=\"_blank\">陳司司</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the anime <em>Shinsekai yori</em> (also known as <em>From the New World</em> or <em>新世界より</em>).</p><p>The <a href=\"http://youtu.be/9DvLKU_zZe0\" target=\"_blank\">arrangement</a> was made by <em><a href=\"https://www.youtube.com/user/annd86107\" target=\"_blank\">陳司司</a></em>, I've only created the sheet music for it.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Kage no Denshouka Dainibu",
@@ -508,7 +508,7 @@
         "title": "Assassin's Creed",
         "slug": "assassins-creed",
         "summary": "Fight Club",
-        "body": "<p>This is a piece from the original soundtrack of the action game <em>Assassin's Creed III</em>.</p><p>I used the melody of <em><a href=\"https://youtu.be/uXjABvXTghw\" target=\"_blank\">Pei-wen Tan's violin arrangement</a></em> and <em><a href=\"https://youtu.be/n7UNLjrBEAY\" target=\"_blank\">OwexGoard's accompaniment</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{songs}}",
+        "body": "<p>This is a piece from the original soundtrack of the action game <em>Assassin's Creed III</em>.</p><p>I used the melody of <em><a href=\"https://youtu.be/uXjABvXTghw\" target=\"_blank\">Pei-wen Tan's violin arrangement</a></em> and <em><a href=\"https://youtu.be/n7UNLjrBEAY\" target=\"_blank\">OwexGoard's accompaniment</a></em>.</p><p>You can listen to the song or download it for free. Have fun!</p>{{license}}{{songs}}",
         "songs": [
             {
                 "title": "Fight Club",
@@ -519,5 +519,11 @@
                 "mscz": "docs/assets/assassins-creed/Fight Club.mscz"
             }
         ]
+    },
+    {
+        "title": "License",
+        "slug": "license",
+        "style": "default",
+        "body": "<p>The sheet music I publish here (as in: the arrangements themselves) are licensed under the <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons Attribution 4.0 International License</a>.</p><p>This means you can freely download, share, perform, remix, or build on my arrangements however you like, as far as I am concerned. However, when redistributing my work in any form, you <strong>must</strong> credit me as the creator, and also include a reference to the <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">license</a>. Thank you for complying with these conditions, and making responsible use out of this creative work.</p><p>Please beware that the CC BY 4.0 license only applies on the arrangements themselves (which are remixes of the original work under the conditions of \"fair use\"). Still, some of the original work adapted here may be licensed under different terms, which you may need to check as well. For example, to perform certain songs live in public, you may need to obtain additional permissions (e.g., from <a href=\"https://www.gema.de/de/musiknutzer/veranstaltungen\" target=\"_blank\">GEMA</a> in Germany). When in doubt, ask your local authority on live music performances.</p><p>If you have any questions, feel free to <a href=\"mailto:kuiter@ovgu.de\" target=\"_blank\">contact me</a>.</p>"
     }
 ]

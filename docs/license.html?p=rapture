@@ -16,20 +16,20 @@
             <div class="wrapper box">
                 <div class="nav-left box">
                     <ul class="nav">
-                        <li class=""><a href="index.html">Overview</a></li>
-<li class=""><a href="imagine-dragons.html">Imagine Dragons</a></li>
-<li class=""><a href="marina.html">MARINA</a></li>
-<li class=""><a href="the-klein-four.html">The Klein Four</a></li>
-<li class=""><a href="the-witcher-3.html">The Witcher 3</a></li>
-<li class=""><a href="aurora.html">AURORA</a></li>
-<li class=""><a href="foxes.html">Foxes</a></li>
-<li class=""><a href="florence.html">Florence + The Machine</a></li>
-<li class=""><a href="silence.html">Silence</a></li>
-<li class=""><a href="fran-bow.html">Fran Bow</a></li>
-<li class="active"><a href="rapture.html">Everybody's Gone to the Rapture</a></li>
-<li class=""><a href="shinsekai-yori.html">Shinsekai yori</a></li>
-<li class=""><a href="assassins-creed.html">Assassin's Creed</a></li>
-<li class=""><a href="license.html">License</a></li>
+                        <li class=""><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class=""><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class="active"><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
 
                     </ul>
                 </div>
@@ -37,31 +37,31 @@
                     <div class="header box">
                         <div class="header-inner box">
                             <div class="header-image box">
-                              <a href="rapture.html"><img src="img/rapture-logo.png" alt="Everybody's Gone to the Rapture" /></a>
+                              <a href="license.html?p=rapture"><img src="img/rapture-logo.png" alt="Everybody's Gone to the Rapture" /></a>
                             </div>
                             <div class="header-text box">
                                 <h1>
-                                    <a href="rapture.html">Sheet music</a>
+                                    <a href="license.html?p=rapture">Sheet music</a>
                                 </h1>
                             </div>
                         </div>
                     </div>
                     <div class="nav-top box">
                         <ul class="nav">
-                            <li class=""><a href="index.html">Overview</a></li>
-<li class=""><a href="imagine-dragons.html">Imagine Dragons</a></li>
-<li class=""><a href="marina.html">MARINA</a></li>
-<li class=""><a href="the-klein-four.html">The Klein Four</a></li>
-<li class=""><a href="the-witcher-3.html">The Witcher 3</a></li>
-<li class=""><a href="aurora.html">AURORA</a></li>
-<li class=""><a href="foxes.html">Foxes</a></li>
-<li class=""><a href="florence.html">Florence + The Machine</a></li>
-<li class=""><a href="silence.html">Silence</a></li>
-<li class=""><a href="fran-bow.html">Fran Bow</a></li>
-<li class="active"><a href="rapture.html">Everybody's Gone to the Rapture</a></li>
-<li class=""><a href="shinsekai-yori.html">Shinsekai yori</a></li>
-<li class=""><a href="assassins-creed.html">Assassin's Creed</a></li>
-<li class=""><a href="license.html">License</a></li>
+                            <li class=""><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class=""><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class="active"><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
 
                         </ul>
                     </div>
@@ -73,11 +73,11 @@
     </p>
     <ul>
         <li class="video"><a href="https://youtu.be/2PGcMPXwQIs" target="_blank">Listen</a></li>
-        <li class="pdf"><a href="assets/rapture/The%20Mourning%20Tree.pdf" target="_blank">PDF</a></li>
-        <li class="mid"><a href="assets/rapture/The%20Mourning%20Tree.mid" target="_blank">MIDI</a></li>
+        <li class="pdf"><a href="docs/assets/rapture/The%20Mourning%20Tree.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/rapture/The%20Mourning%20Tree.mid" target="_blank">MIDI</a></li>
         <li class="mp3"></li>
         <li class="wav"></li>
-        <li class="mscz"><a href="assets/rapture/The%20Mourning%20Tree.mscz" target="_blank">MuseScore</a></li>
+        <li class="mscz"><a href="docs/assets/rapture/The%20Mourning%20Tree.mscz" target="_blank">MuseScore</a></li>
         <li class="sib"></li>
     </ul>
 </li>

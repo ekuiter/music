@@ -45,6 +45,7 @@ class Renderer {
                 array("assign" => "background", "to" => $this->getProperty("background")),
                 array("assign" => "navigation", "to" => $this->getNavigation()),
                 array("assign" => "overviewNavigation", "to" => $this->getOverviewNavigation()),
+                array("assign" => "license", "to" => $this->getLicense()),
                 array("assign" => "songs", "to" => $this->getSongs())
             ),
             __DIR__);
@@ -78,6 +79,10 @@ class Renderer {
         $labels = array("video" => "Listen", "mid" => "MIDI", "mscz" => "MuseScore", "sib" => "Sibelius");
         $label = isset($labels[$type]) ? $labels[$type] : strtoupper($type);
         return $url ? "<a href=\"$url\" target=\"_blank\">$label</a>" : "";
+    }
+
+    private function getLicense() {
+        return "<p>This sheet music is licensed under <a href=\"license.html\" target=\"_blank\">CC BY 4.0</a>.</p>";
     }
 
     private function getSongs() {

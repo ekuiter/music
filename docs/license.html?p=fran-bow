@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Fran Bow | Sheet music</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <link rel="shortcut icon" href="img/icon.png" type="image/png">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="css/fran-bow.css" />
+    </head>
+    <body>
+<div class="root">
+            
+            <div class="gap-top box"></div>
+            <div class="wrapper box">
+                <div class="nav-left box">
+                    <ul class="nav">
+                        <li class=""><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class="active"><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class=""><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
+
+                    </ul>
+                </div>
+                <div class="inner box">
+                    <div class="header box">
+                        <div class="header-inner box">
+                            <div class="header-image box">
+                              <a href="license.html?p=fran-bow"><img src="img/fran-bow-logo.png" alt="Fran Bow" /></a>
+                            </div>
+                            <div class="header-text box">
+                                <h1>
+                                    <a href="license.html?p=fran-bow">Sheet music</a>
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-top box">
+                        <ul class="nav">
+                            <li class=""><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class="active"><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class=""><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="content-wrapper box">
+                        <div class="content box">
+                            <p>This is a collection of piano sheet music I made for the <a href="https://isakmartinsson.bandcamp.com/album/fran-bow-original-soundtrack" target="_blank">original soundtrack</a> of the adventure game <em>Fran Bow</em>.</p><p>You can listen to each song or download it for free. Have fun!</p><p>This sheet music is licensed under <a href="license.html" target="_blank">CC BY 4.0</a>.</p><ul class="sheet-music"><li>
+    <p>
+        01. <strong>Bedtime Story</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/CTI_-t3BU6Y" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/01.%20Bedtime%20Story.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/01.%20Bedtime%20Story.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/01.%20Bedtime%20Story.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/01.%20Bedtime%20Story.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        02. <strong>Finding The Truth</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/wm8YKnDQ5Hw" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/02.%20Finding%20The%20Truth.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/02.%20Finding%20The%20Truth.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/02.%20Finding%20The%20Truth.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/02.%20Finding%20The%20Truth.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        03. <strong>Mr. Midnight</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/xsbZh3w3H-Q" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/03.%20Mr.%20Midnight.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/03.%20Mr.%20Midnight.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/03.%20Mr.%20Midnight.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/03.%20Mr.%20Midnight.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        04. <strong>The White Rabbit</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="docs/assets/fran-bow/04.%20The%20White%20Rabbit.mp4" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/04.%20The%20White%20Rabbit.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/04.%20The%20White%20Rabbit.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/04.%20The%20White%20Rabbit.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/04.%20The%20White%20Rabbit.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        05. <strong>A Little Talk</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/bqzOfuGzNBA" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/05.%20A%20Little%20Talk.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/05.%20A%20Little%20Talk.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/05.%20A%20Little%20Talk.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/05.%20A%20Little%20Talk.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        06. <strong>Black Tears</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/GQe_BrBYWEg" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/06.%20Black%20Tears.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/06.%20Black%20Tears.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/06.%20Black%20Tears.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/06.%20Black%20Tears.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        07. <strong>It Hunts Me</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/3s8y2z-y_d0" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/07.%20It%20Hunts%20Me.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/07.%20It%20Hunts%20Me.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/07.%20It%20Hunts%20Me.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/07.%20It%20Hunts%20Me.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        08. <strong>Cold Walls</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/5hxTn9ytk0U" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/08.%20Cold%20Walls.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/08.%20Cold%20Walls.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/08.%20Cold%20Walls.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/08.%20Cold%20Walls.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        09. <strong>Details Omitted</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/UKHprknKUU4" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/09.%20Details%20Omitted.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/09.%20Details%20Omitted.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/09.%20Details%20Omitted.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/09.%20Details%20Omitted.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        10. <strong>I Can See</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/UhjJbEetwco" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/10.%20I%20Can%20See.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/10.%20I%20Can%20See.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/10.%20I%20Can%20See.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/10.%20I%20Can%20See.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        11. <strong>Downstairs</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/2VSsp_fKuo8" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/11.%20Downstairs.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/11.%20Downstairs.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/11.%20Downstairs.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/11.%20Downstairs.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        12. <strong>Inside The Children's Head</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/7l7E4E9I1lk" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/12.%20Inside%20The%20Children's%20Head.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/12.%20Inside%20The%20Children's%20Head.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/12.%20Inside%20The%20Children's%20Head.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/12.%20Inside%20The%20Children's%20Head.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        13. <strong>Lost On The Path</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/Bba8DtuQTPQ" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/13.%20Lost%20On%20The%20Path.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/13.%20Lost%20On%20The%20Path.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/13.%20Lost%20On%20The%20Path.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/13.%20Lost%20On%20The%20Path.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        15. <strong>Duality</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/YDdxlLRvCic" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/15.%20Duality.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/15.%20Duality.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/15.%20Duality.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/15.%20Duality.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        16. <strong>This Is The Forest</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/3w68Hi0c8HM" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/16.%20This%20Is%20The%20Forest.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/16.%20This%20Is%20The%20Forest.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/16.%20This%20Is%20The%20Forest.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/16.%20This%20Is%20The%20Forest.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        17. <strong>Sitting In Company</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/Y38nEyT8fLw" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/17.%20Sitting%20In%20Company.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/17.%20Sitting%20In%20Company.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/17.%20Sitting%20In%20Company.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/17.%20Sitting%20In%20Company.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        18. <strong>Let's Start Over</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/bOpibBiqKtY" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/18.%20Let's%20Start%20Over.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/18.%20Let's%20Start%20Over.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/18.%20Let's%20Start%20Over.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/18.%20Let's%20Start%20Over.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        19. <strong>The King Of Ithersta</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/69SGWkYjJgE" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/19.%20The%20King%20Of%20Ithersta.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/19.%20The%20King%20Of%20Ithersta.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/19.%20The%20King%20Of%20Ithersta.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/19.%20The%20King%20Of%20Ithersta.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        20. <strong>Get Rid Of The Dirt</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="docs/assets/fran-bow/20.%20Get%20Rid%20Of%20The%20Dirt.mp4" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/20.%20Get%20Rid%20Of%20The%20Dirt.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/20.%20Get%20Rid%20Of%20The%20Dirt.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/20.%20Get%20Rid%20Of%20The%20Dirt.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/20.%20Get%20Rid%20Of%20The%20Dirt.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        23. <strong>Philmore Paranoid</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/iHXiJNuMVTw" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/23.%20Philmore%20Paranoid.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/23.%20Philmore%20Paranoid.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/23.%20Philmore%20Paranoid.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/23.%20Philmore%20Paranoid.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        24. <strong>Take Me Home</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/4TO8-3dmTwQ" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/24.%20Take%20Me%20Home.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/24.%20Take%20Me%20Home.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/24.%20Take%20Me%20Home.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/24.%20Take%20Me%20Home.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        25. <strong>When Things Are Said</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/aBgCa-WtEJo" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/25.%20When%20Things%20Are%20Said.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/25.%20When%20Things%20Are%20Said.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/25.%20When%20Things%20Are%20Said.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/25.%20When%20Things%20Are%20Said.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        28. <strong>My Friend Is Leaving</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/BpqGX4IMAXg" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/28.%20My%20Friend%20Is%20Leaving.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/28.%20My%20Friend%20Is%20Leaving.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/28.%20My%20Friend%20Is%20Leaving.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/28.%20My%20Friend%20Is%20Leaving.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        36. <strong>They Will Find You</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/S4bCTR9Mg2w" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/36.%20They%20Will%20Find%20You.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/36.%20They%20Will%20Find%20You.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/36.%20They%20Will%20Find%20You.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/36.%20They%20Will%20Find%20You.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        39. <strong>Fluffy Toad Bun</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/PWVihHHmR-Y" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/39.%20Fluffy%20Toad%20Bun.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/39.%20Fluffy%20Toad%20Bun.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/39.%20Fluffy%20Toad%20Bun.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/39.%20Fluffy%20Toad%20Bun.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        41. <strong>Sneaky Fran</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/dTz_EJreRVY" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/41.%20Sneaky%20Fran.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/41.%20Sneaky%20Fran.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/41.%20Sneaky%20Fran.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/41.%20Sneaky%20Fran.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        42. <strong>The Bow Family</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/wE9TuEbpwus" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/42.%20The%20Bow%20Family.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/42.%20The%20Bow%20Family.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/42.%20The%20Bow%20Family.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/42.%20The%20Bow%20Family.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+        43. <strong>Between Black And White</strong> 
+    </p>
+    <ul>
+        <li class="video"><a href="https://youtu.be/h3Gtn43BkuI" target="_blank">Listen</a></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/43.%20Between%20Black%20And%20White.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/43.%20Between%20Black%20And%20White.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"><a href="docs/assets/fran-bow/43.%20Between%20Black%20And%20White.mp3" target="_blank">MP3</a></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/43.%20Between%20Black%20And%20White.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+<li>
+    <p>
+         <strong>Finding Mr. Midnight</strong> by <em>Random Encounters</em>
+    </p>
+    <ul>
+        <li class="video"></li>
+        <li class="pdf"><a href="docs/assets/fran-bow/Finding%20Mr.%20Midnight.pdf" target="_blank">PDF</a></li>
+        <li class="mid"><a href="docs/assets/fran-bow/Finding%20Mr.%20Midnight.mid" target="_blank">MIDI</a></li>
+        <li class="mp3"></li>
+        <li class="wav"></li>
+        <li class="mscz"><a href="docs/assets/fran-bow/Finding%20Mr.%20Midnight.mscz" target="_blank">MuseScore</a></li>
+        <li class="sib"></li>
+    </ul>
+</li>
+</ul>
+                        </div>
+                        <div class="footer box">
+                            <div>Interested in software engineering? Visit my <a href="http://www.elias-kuiter.de"><span style="font-weight: normal;">⚙</span>&nbsp;home page</a>.</div>
+                            <div>&copy; 2025 Elias Kuiter | <a href="http://www.elias-kuiter.de/imprint">Imprint</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gap-bottom box"></div>
+        </div>
+    </body>
+</html>

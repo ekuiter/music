@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Overview | Sheet music</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <link rel="shortcut icon" href="img/icon.png" type="image/png">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="css/index.css" />
+    </head>
+    <body>
+<div class="root">
+            <video playsinline autoplay loop muted poster="img/index-bg.jpg"><source src="img/index-bg.mp4" type="video/mp4"></video>
+            <div class="gap-top box"></div>
+            <div class="wrapper box">
+                <div class="nav-left box">
+                    <ul class="nav">
+                        <li class="active"><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class=""><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class=""><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
+
+                    </ul>
+                </div>
+                <div class="inner box">
+                    <div class="header box">
+                        <div class="header-inner box">
+                            <div class="header-image box">
+                              <a href="license.html?p=index"><img src="img/index-logo.png" alt="Overview" /></a>
+                            </div>
+                            <div class="header-text box">
+                                <h1>
+                                    <a href="license.html?p=index">Sheet music</a>
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-top box">
+                        <ul class="nav">
+                            <li class="active"><a href="license.html?p=index">Overview</a></li>
+<li class=""><a href="license.html?p=imagine-dragons">Imagine Dragons</a></li>
+<li class=""><a href="license.html?p=marina">MARINA</a></li>
+<li class=""><a href="license.html?p=the-klein-four">The Klein Four</a></li>
+<li class=""><a href="license.html?p=the-witcher-3">The Witcher 3</a></li>
+<li class=""><a href="license.html?p=aurora">AURORA</a></li>
+<li class=""><a href="license.html?p=foxes">Foxes</a></li>
+<li class=""><a href="license.html?p=florence">Florence + The Machine</a></li>
+<li class=""><a href="license.html?p=silence">Silence</a></li>
+<li class=""><a href="license.html?p=fran-bow">Fran Bow</a></li>
+<li class=""><a href="license.html?p=rapture">Everybody's Gone to the Rapture</a></li>
+<li class=""><a href="license.html?p=shinsekai-yori">Shinsekai yori</a></li>
+<li class=""><a href="license.html?p=assassins-creed">Assassin's Creed</a></li>
+<li class=""><a href="license.html?p=license">License</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="content-wrapper box">
+                        <div class="content box">
+                            <p>Hi! Here you can browse and download all sheet music I've created. You can also visit my <a href="https://www.youtube.com/@EliasKSheetMusic" target="_blank">YouTube channel</a> to discover more.</p><p>Sometimes, when I can't find sheet music for a song, I decide to make it myself (if I can bring myself to work with MuseScore ಠ_ಠ) You can find piano and choir arrangements here.</p><p>I've made sheet music for the following video games, animes &amp; artists:</p><ul class="sheet-music overview"><li><a href="license.html?p=imagine-dragons"><p><strong>Imagine Dragons</strong></p><p><span>Enemy</span></p></a></li>
+<li><a href="license.html?p=marina"><p><strong>MARINA</strong></p><p><span>Ancient Dreams in a Modern Land</span></p></a></li>
+<li><a href="license.html?p=the-klein-four"><p><strong>The Klein Four</strong></p><p><span>Finite Simple Group</span></p></a></li>
+<li><a href="license.html?p=the-witcher-3"><p><strong>The Witcher 3</strong></p><p><span>The Vagabond</span></p></a></li>
+<li><a href="license.html?p=aurora"><p><strong>AURORA</strong></p><p><span>Warrior, The Seed</span></p></a></li>
+<li><a href="license.html?p=foxes"><p><strong>Foxes</strong></p><p><span>Glorious</span></p></a></li>
+<li><a href="license.html?p=florence"><p><strong>Florence + The Machine</strong></p><p><span>Which Witch, Moderation</span></p></a></li>
+<li><a href="license.html?p=silence"><p><strong>Silence</strong></p><p><span>Windy, Renie</span></p></a></li>
+<li><a href="license.html?p=fran-bow"><p><strong>Fran Bow</strong></p><p><span>Black Tears, When Things Are Said &amp; more</span></p></a></li>
+<li><a href="license.html?p=rapture"><p><strong>Everybody's Gone to the Rapture</strong></p><p><span>The Mourning Tree</span></p></a></li>
+<li><a href="license.html?p=shinsekai-yori"><p><strong>Shinsekai yori</strong></p><p><span>Kage no Denshouka Dainibu</span></p></a></li>
+<li><a href="license.html?p=assassins-creed"><p><strong>Assassin's Creed</strong></p><p><span>Fight Club</span></p></a></li>
+</ul>
+                        </div>
+                        <div class="footer box">
+                            <div>Interested in software engineering? Visit my <a href="http://www.elias-kuiter.de"><span style="font-weight: normal;">⚙</span>&nbsp;home page</a>.</div>
+                            <div>&copy; 2025 Elias Kuiter | <a href="http://www.elias-kuiter.de/imprint">Imprint</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gap-bottom box"></div>
+        </div>
+    </body>
+</html>
