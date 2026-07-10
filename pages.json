@@ -15,10 +15,19 @@
                 "title": "Enemy",
                 "subtitle": "Short Ver. (SATBB choir)",
                 "video": "https://youtu.be/NPQ4gwm2O6I",
-                "pdf": "docs/assets/imagine-dragons/Enemy (Short).pdf",
-                "mid": "docs/assets/imagine-dragons/Enemy (Short).mid",
-                "mp3": "docs/assets/imagine-dragons/Enemy (Short).mp3",
-                "mscz": "docs/assets/imagine-dragons/Enemy (Short).mscz"
+                "pdf": "docs/assets/imagine-dragons/Enemy (Short Ver.).pdf",
+                "mid": "docs/assets/imagine-dragons/Enemy (Short Ver.).mid",
+                "mp3": "docs/assets/imagine-dragons/Enemy (Short Ver.).mp3",
+                "mscz": "docs/assets/imagine-dragons/Enemy (Short Ver.).mscz"
+            },
+            {
+                "title": "Enemy",
+                "subtitle": "Full Ver. (SATBB choir)",
+                "video": "https://youtu.be/E-_e-9yRwjY",
+                "pdf": "docs/assets/imagine-dragons/Enemy (Full Ver.).pdf",
+                "mid": "docs/assets/imagine-dragons/Enemy (Full Ver.).mid",
+                "mp3": "docs/assets/imagine-dragons/Enemy (Full Ver.).mp3",
+                "mscz": "docs/assets/imagine-dragons/Enemy (Full Ver.).mscz"
             }
         ]
     },
