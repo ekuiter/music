@@ -82,7 +82,7 @@ class Renderer {
     }
 
     private function getLicense() {
-        return "<p>This sheet music is licensed under <a href=\"license.html\" target=\"_blank\">CC BY 4.0</a>.</p>";
+        return "<p>This sheet music is licensed under <a href=\"license.html\">CC BY 4.0</a>.</p>";
     }
 
     private function getSongs() {
