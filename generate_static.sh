@@ -100,6 +100,8 @@ find "${BUILD_DIR}" -maxdepth 1 -type f -name "index.html?p=*" | while read -r f
     mv "$file" "$target"
 done
 
+find "${BUILD_DIR}" -maxdepth 1 -type f -name "license.html[?]p=*" -delete
+
 echo "🔧 Rewriting query-based links to static paths..."
 
 find "${BUILD_DIR}" -name "*.html" -type f -print0 | while IFS= read -r -d '' file; do
