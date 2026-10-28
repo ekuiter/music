@@ -2,6 +2,9 @@
 # brew install composer php wget npm # if you don't have these installed
 set -euo pipefail
 
+root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$root"
+
 ###
 # CONFIG
 ###

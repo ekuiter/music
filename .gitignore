@@ -5,3 +5,4 @@ aep
 psd
 vendor
 docs/license.html[?]p=*
+scripts/deploy.sh
